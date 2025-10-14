@@ -1,0 +1,17 @@
+{
+  "enabledCssSnippets": [
+    "Tags Themes",
+    "Samarth's General Tweaks",
+    "Colored Sidebar Items",
+    "Cyan Vorex's Theme"
+  ],
+  "textFontFamily": "JetBrainsMonoNL Nerd Font",
+  "interfaceFontFamily": "JetBrainsMonoNL Nerd Font",
+  "monospaceFontFamily": "JetBrainsMonoNL Nerd Font",
+  "baseFontSize": 28,
+  "theme": "obsidian",
+  "accentColor": "",
+  "cssTheme": "",
+  "showRibbon": false,
+  "baseFontSizeAction": true
+}

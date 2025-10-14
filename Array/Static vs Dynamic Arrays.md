@@ -19,3 +19,18 @@ delete[] p;
 p = (int *) malloc(sizeof(int)); // C
 free(p);
 ```
+
+```ad-question
+title: How to Increase size of an array?
+
+```cpp
+int *p = new int[5];
+int *q = new int[10];
+
+for (int i = 0; i < 5; i++)
+	q[i] = p[i];
+
+delete[] p;
+p = q;
+q = NULL;
+```

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2D Array",
+      "path": "Array/2D Array.md"
+    },
+    {
       "basename": "Static vs Dynamic Arrays",
       "path": "Array/Static vs Dynamic Arrays.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Caesar",
       "path": "02 - Programming/Courses/CS-50x/Problem Set/Caesar.md"
-    },
-    {
-      "basename": "Readability",
-      "path": "02 - Programming/Courses/CS-50x/Problem Set/Readability.md"
     }
   ],
   "omittedPaths": [],

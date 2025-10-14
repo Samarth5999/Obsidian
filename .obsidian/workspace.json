@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Array/Static vs Dynamic Arrays.md",
+                "file": "Array/2D Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Static vs Dynamic Arrays"
+              "title": "2D Array"
             }
           }
         ]
@@ -138,8 +138,9 @@
   },
   "active": "51f44b1f7af54914",
   "lastOpenFiles": [
-    "Array/Introduction of Arrays.md",
     "Array/Static vs Dynamic Arrays.md",
+    "Array/2D Array.md",
+    "Array/Introduction of Arrays.md",
     "Cleanup/DSA.md",
     "Array",
     "Hello this is Samarth.md",
@@ -168,7 +169,6 @@
     "02 - Programming/Languages/C++/Compilerr.md",
     "02 - Programming/Languages/C++/Structure of C+.md",
     "02 - Programming/Languages/Java/5 OOPS/Method Signature.md",
-    "02 - Programming/Languages/Java/5 OOPS/OOPS.md",
     "02 - Programming/Fundamentals",
     "02 - Programming/Languages/C++",
     "Cleanup/cs50Week4Slide085.png",
