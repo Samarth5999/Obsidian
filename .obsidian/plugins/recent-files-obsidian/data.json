@@ -1,52 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Hello this is Samarth",
-      "path": "Hello this is Samarth.md"
-    },
-    {
-      "basename": "Static Variables in Recursion",
-      "path": "Static Variables in Recursion.md"
-    },
-    {
-      "basename": "How Recursion Uses Stack",
-      "path": "Recursion/How Recursion Uses Stack.md"
-    },
-    {
-      "basename": "Time Complexity of Recursion",
-      "path": "Recursion/Time Complexity of Recursion.md"
-    },
-    {
-      "basename": "Recursion",
-      "path": "Recursion/Recursion.md"
-    },
-    {
-      "basename": "Static vs Dynamic Memory Allocation",
-      "path": "Static vs Dynamic Memory Allocation.md"
-    },
-    {
-      "basename": "Programming Paradigms",
-      "path": "Programming Paradigms.md"
-    },
-    {
-      "basename": "Physical vs Logical Data Structure",
-      "path": "Physical vs Logical Data Structure.md"
-    },
-    {
-      "basename": "cs50Week4Slide066",
-      "path": "cs50Week4Slide066.png"
-    },
-    {
-      "basename": "Abstract Data Type",
-      "path": "Abstract Data Type.md"
+      "basename": "Introduction of Arrays",
+      "path": "Array/Introduction of Arrays.md"
     },
     {
       "basename": "DSA",
-      "path": "DSA.md"
+      "path": "Cleanup/DSA.md"
+    },
+    {
+      "basename": "Static Variables in Recursion",
+      "path": "Cleanup/Static Variables in Recursion.md"
+    },
+    {
+      "basename": "How Recursion Uses Stack",
+      "path": "Cleanup/Recursion/How Recursion Uses Stack.md"
+    },
+    {
+      "basename": "Time Complexity of Recursion",
+      "path": "Cleanup/Recursion/Time Complexity of Recursion.md"
+    },
+    {
+      "basename": "Recursion",
+      "path": "Cleanup/Recursion/Recursion.md"
+    },
+    {
+      "basename": "Static vs Dynamic Memory Allocation",
+      "path": "Cleanup/Static vs Dynamic Memory Allocation.md"
+    },
+    {
+      "basename": "Programming Paradigms",
+      "path": "Cleanup/Programming Paradigms.md"
+    },
+    {
+      "basename": "Physical vs Logical Data Structure",
+      "path": "Cleanup/Physical vs Logical Data Structure.md"
+    },
+    {
+      "basename": "cs50Week4Slide066",
+      "path": "Cleanup/cs50Week4Slide066.png"
+    },
+    {
+      "basename": "Abstract Data Type",
+      "path": "Cleanup/Abstract Data Type.md"
     },
     {
       "basename": "Data Structure",
-      "path": "Data Structure.md"
+      "path": "Cleanup/Data Structure.md"
     },
     {
       "basename": "Token",
@@ -78,11 +78,11 @@
     },
     {
       "basename": "cs50Week4Slide085",
-      "path": "cs50Week4Slide085.png"
+      "path": "Cleanup/cs50Week4Slide085.png"
     },
     {
       "basename": "cs50Week4Slide163",
-      "path": "cs50Week4Slide163.png"
+      "path": "Cleanup/cs50Week4Slide163.png"
     },
     {
       "basename": "How to Take Math Notes",
