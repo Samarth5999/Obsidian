@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Static vs Dynamic Arrays",
+      "path": "Array/Static vs Dynamic Arrays.md"
+    },
+    {
       "basename": "Introduction of Arrays",
       "path": "Array/Introduction of Arrays.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Readability",
       "path": "02 - Programming/Courses/CS-50x/Problem Set/Readability.md"
-    },
-    {
-      "basename": "Scrabble",
-      "path": "02 - Programming/Courses/CS-50x/Problem Set/Scrabble.md"
     }
   ],
   "omittedPaths": [],
