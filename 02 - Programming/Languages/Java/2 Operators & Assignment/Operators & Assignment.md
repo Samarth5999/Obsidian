@@ -1,0 +1,16 @@
+# 1.12 Operators & Assignment MOC
+
+- [[Arithmetic Operator]]
+- [[Assignment Operator]]
+- [[Bitwise Operator]]
+- [[Conditional Operator]]
+- [[Equality Operator]]
+- [[Extras]]
+- [[Increment & Decrement Operator]]
+- [[Instanceof Operator]]
+- [[New Operator]]
+- [[Operator and Operand Order]]
+- [[Short Circuit Operators]]
+- [[String Concatenation Operator]]
+- [[Type Cast Operator]]
+- [[Relational Operator]]

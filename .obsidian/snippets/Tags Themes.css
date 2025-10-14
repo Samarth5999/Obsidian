@@ -1,0 +1,14 @@
+/* Make links inside properties look like clickable hyperlinks */
+.metadata-container .multi-select-pill,
+.metadata-container .value-container a {
+  color: var(--link-color);
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* Optional: on hover change color slightly */
+.metadata-container .multi-select-pill:hover,
+.metadata-container .value-container a:hover {
+  color: var(--link-color-hover, var(--link-color));
+  text-decoration: underline;
+}

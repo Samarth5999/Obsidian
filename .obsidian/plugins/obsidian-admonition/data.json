@@ -1,0 +1,115 @@
+{
+  "userAdmonitions": {
+    "answer": {
+      "type": "answer",
+      "color": "0, 255, 30",
+      "icon": {
+        "name": "lucide-scan-eye",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": "Answer",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "question": {
+      "type": "question",
+      "color": "255, 0, 0",
+      "icon": {
+        "name": "lucide-file-question",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": "Question",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "Doubt": {
+      "type": "Doubt",
+      "color": "255, 136, 0",
+      "icon": {
+        "name": "lucide-message-circle-question",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": "Doubt",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "Overview": {
+      "type": "Overview",
+      "color": "255, 255, 255",
+      "icon": {
+        "name": "lucide-pin",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": "Overview",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "Takeaway": {
+      "type": "Takeaway",
+      "color": "98, 223, 254",
+      "icon": {
+        "name": "lucide-plane-takeoff",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": "Takeaway",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "Definition": {
+      "type": "Definition",
+      "color": "255, 255, 255",
+      "icon": {
+        "name": "lucide-equal-square",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": "Definition",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    },
+    "important": {
+      "type": "important",
+      "color": "255, 107, 137",
+      "icon": {
+        "name": "lucide-brain",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": "Important",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": false
+    }
+  },
+  "syntaxHighlight": true,
+  "copyButton": false,
+  "version": "10.3.2",
+  "autoCollapse": false,
+  "defaultCollapseType": "closed",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.04b094"
+}

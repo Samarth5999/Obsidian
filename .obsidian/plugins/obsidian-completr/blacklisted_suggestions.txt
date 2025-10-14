@@ -1,0 +1,15 @@
+Note
+Summary
+Abstract
+TL;DR
+Info
+class
+classes
+classname
+Class
+Classes
+ClassNotFoundException
+To-Do
+Tip
+Attention
+Hint

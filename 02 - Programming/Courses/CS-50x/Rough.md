@@ -1,0 +1,22 @@
+h- [x] Me
+- [x] Mario-less
+- [x] Mario-more
+- [x] cash
+- [ ] credit
+- [x] Scrablle
+- [x] Readability
+- [x] Caesar
+- [ ] Substition
+- [x] Sort
+- [x] Pluratity
+- [ ] Runoff 
+- [ ] Tideman
+- [x] Volume
+- [ ] Filter-less
+- [ ] Filter-more
+- [ ] Recover
+- [ ] Hello-python
+- [ ] mario-less p
+- [ ] mario-more p
+- [ ] cash-p
+- [ ] credit-p

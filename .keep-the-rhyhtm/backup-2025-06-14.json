@@ -1,0 +1,3495 @@
+{
+  "schema": "0.2",
+  "settings": {
+    "enabledLanguages": [
+      "LATIN"
+    ],
+    "dailyWritingGoal": "500",
+    "startOfTheWeek": "SUNDAY",
+    "heatmapNavigation": false,
+    "heatmapConfig": {
+      "roundCells": true,
+      "hideMonthLabels": false,
+      "hideWeekdayLabels": false,
+      "intensityMode": "gradual",
+      "intensityStops": {
+        "low": 100,
+        "medium": 500,
+        "high": 1000
+      },
+      "colors": {
+        "light": {
+          "0": "#e0e0e0",
+          "1": "#9be9a8",
+          "2": "#6ad286",
+          "3": "#2ebd54",
+          "4": "#12a53e"
+        },
+        "dark": {
+          "0": "#ebedf015",
+          "1": "#0e4429",
+          "2": "#006d32",
+          "3": "#26a641",
+          "4": "#39d353"
+        }
+      }
+    },
+    "sidebarConfig": {
+      "visibility": {
+        "showSlots": true,
+        "showEntries": true,
+        "showHeatmap": true
+      },
+      "slots": [
+        {
+          "index": 0,
+          "option": "CURRENT_DAY",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        },
+        {
+          "index": 1,
+          "option": "CURRENT_WEEK",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        },
+        {
+          "index": 2,
+          "option": "LAST_MONTH",
+          "unit": "WORD",
+          "calc": "AVG"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "currentStreak": 0,
+    "highestStreak": 0,
+    "highestStreakStartDate": "",
+    "highestStreakEndDate": "",
+    "daysWithCompletedGoal": [
+      "2025-06-15",
+      "2025-06-16",
+      "2025-06-17",
+      "2025-06-20",
+      "2025-06-21",
+      "2025-06-26",
+      "2025-07-02"
+    ],
+    "dailyActivity": [
+      {
+        "date": "2025-06-15",
+        "filePath": "Pasted image 20250615160936.png",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 25
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "03 - Books/Books.md",
+        "wordCountStart": 200,
+        "charCountStart": 1281,
+        "changes": [],
+        "id": 26
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "04 - Digital Logic/Signal.md",
+        "wordCountStart": 73,
+        "charCountStart": 392,
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:25",
+            "w": 18,
+            "c": 109
+          },
+          {
+            "timeKey": "16:30",
+            "w": 35,
+            "c": 246
+          },
+          {
+            "timeKey": "16:35",
+            "w": 33,
+            "c": 192
+          },
+          {
+            "timeKey": "16:40",
+            "w": 151,
+            "c": 1055
+          },
+          {
+            "timeKey": "16:45",
+            "w": -105,
+            "c": -779
+          },
+          {
+            "timeKey": "16:50",
+            "w": -5,
+            "c": -6
+          }
+        ],
+        "id": 27
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "04 - Digital Logic/Number Systems.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:00",
+            "w": 25,
+            "c": 313
+          },
+          {
+            "timeKey": "19:05",
+            "w": 7,
+            "c": 96
+          },
+          {
+            "timeKey": "19:10",
+            "w": 28,
+            "c": 230
+          },
+          {
+            "timeKey": "19:15",
+            "w": 42,
+            "c": 342
+          },
+          {
+            "timeKey": "19:20",
+            "w": -3,
+            "c": -32
+          }
+        ],
+        "id": 28
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "04 - Digital Logic/Binary Number.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:20",
+            "w": 52,
+            "c": 272
+          },
+          {
+            "timeKey": "19:25",
+            "w": 24,
+            "c": 125
+          }
+        ],
+        "id": 29
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/OOPS.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:40",
+            "w": 3,
+            "c": 27
+          },
+          {
+            "timeKey": "19:45",
+            "w": 17,
+            "c": 210
+          },
+          {
+            "timeKey": "19:50",
+            "w": 5,
+            "c": 80
+          },
+          {
+            "timeKey": "22:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "22:50",
+            "w": -3,
+            "c": -33
+          }
+        ],
+        "id": 30
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Data Hiding.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "19:55",
+            "w": 26,
+            "c": 149
+          },
+          {
+            "timeKey": "20:00",
+            "w": 72,
+            "c": 462
+          },
+          {
+            "timeKey": "20:05",
+            "w": 8,
+            "c": 97
+          },
+          {
+            "timeKey": "20:10",
+            "w": 7,
+            "c": 37
+          },
+          {
+            "timeKey": "20:15",
+            "w": 9,
+            "c": 53
+          },
+          {
+            "timeKey": "20:20",
+            "w": 3,
+            "c": 28
+          },
+          {
+            "timeKey": "20:30",
+            "w": 8,
+            "c": 46
+          },
+          {
+            "timeKey": "21:15",
+            "w": 0,
+            "c": 5
+          }
+        ],
+        "id": 31
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Data Hiding.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "19:55",
+            "w": 26,
+            "c": 149
+          },
+          {
+            "timeKey": "20:00",
+            "w": 72,
+            "c": 462
+          },
+          {
+            "timeKey": "20:05",
+            "w": 8,
+            "c": 97
+          },
+          {
+            "timeKey": "20:10",
+            "w": 7,
+            "c": 37
+          },
+          {
+            "timeKey": "20:15",
+            "w": 9,
+            "c": 53
+          },
+          {
+            "timeKey": "20:20",
+            "w": 3,
+            "c": 28
+          },
+          {
+            "timeKey": "20:30",
+            "w": 8,
+            "c": 46
+          },
+          {
+            "timeKey": "21:15",
+            "w": 0,
+            "c": 5
+          }
+        ],
+        "id": 32
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "02 - Programming/Languages/Java/Java.md",
+        "wordCountStart": 10,
+        "charCountStart": 114,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": 1,
+            "c": 11
+          }
+        ],
+        "id": 33
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Abstraction.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:25",
+            "w": 3,
+            "c": 21
+          },
+          {
+            "timeKey": "20:30",
+            "w": 45,
+            "c": 301
+          },
+          {
+            "timeKey": "20:45",
+            "w": 51,
+            "c": 335
+          },
+          {
+            "timeKey": "20:50",
+            "w": 14,
+            "c": 96
+          }
+        ],
+        "id": 34
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Encapsulation.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 51,
+            "c": 338
+          },
+          {
+            "timeKey": "21:10",
+            "w": 27,
+            "c": 272
+          },
+          {
+            "timeKey": "21:15",
+            "w": 20,
+            "c": 150
+          },
+          {
+            "timeKey": "21:20",
+            "w": 20,
+            "c": 124
+          },
+          {
+            "timeKey": "22:05",
+            "w": 37,
+            "c": 241
+          },
+          {
+            "timeKey": "22:10",
+            "w": 85,
+            "c": 534
+          },
+          {
+            "timeKey": "22:15",
+            "w": 34,
+            "c": 254
+          },
+          {
+            "timeKey": "22:20",
+            "w": 3,
+            "c": 28
+          }
+        ],
+        "id": 35
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "02 - Mathematics/Linear Algebra/Matrices and Systems of Linear Equations/Cramer's Rule.md",
+        "wordCountStart": 192,
+        "charCountStart": 1025,
+        "changes": [],
+        "id": 36
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "Tightly Encapsulated Class.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 37
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "01 - Coding/Languages/Java/5 OOPS/Inheritance or IS-A Relationship.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:50",
+            "w": 24,
+            "c": 156
+          }
+        ],
+        "id": 38
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "02 - Programming/Languages/Java/2 Operators & Assignment/Operators & Assignment.md",
+        "wordCountStart": 37,
+        "charCountStart": 406,
+        "changes": [],
+        "id": 49
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "04 - Digital Logic/Signal.md",
+        "wordCountStart": 200,
+        "charCountStart": 1209,
+        "changes": [],
+        "id": 50
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Number Theory.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:30",
+            "w": 33,
+            "c": 218
+          },
+          {
+            "timeKey": "19:50",
+            "w": 3,
+            "c": 33
+          },
+          {
+            "timeKey": "19:55",
+            "w": 13,
+            "c": 62
+          },
+          {
+            "timeKey": "20:00",
+            "w": 26,
+            "c": 132
+          },
+          {
+            "timeKey": "20:10",
+            "w": 3,
+            "c": 48
+          },
+          {
+            "timeKey": "22:45",
+            "w": 21,
+            "c": 151
+          },
+          {
+            "timeKey": "22:50",
+            "w": 44,
+            "c": 256
+          },
+          {
+            "timeKey": "23:35",
+            "w": 1,
+            "c": 23
+          }
+        ],
+        "id": 51
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Encapsulation.md",
+        "wordCountStart": 277,
+        "charCountStart": 1941,
+        "changes": [
+          {
+            "timeKey": "19:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 56
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Abstraction.md",
+        "wordCountStart": 113,
+        "charCountStart": 753,
+        "changes": [],
+        "id": 57
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Data Hiding.md",
+        "wordCountStart": 133,
+        "charCountStart": 877,
+        "changes": [],
+        "id": 58
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "01 - Coding/Languages/Java/5 OOPS/Inheritance or IS-A Relationship.md",
+        "wordCountStart": 24,
+        "charCountStart": 156,
+        "changes": [],
+        "id": 59
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Binary Operations.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:05",
+            "w": 164,
+            "c": 961
+          },
+          {
+            "timeKey": "20:10",
+            "w": -1,
+            "c": 15
+          },
+          {
+            "timeKey": "23:40",
+            "w": 1,
+            "c": 5
+          }
+        ],
+        "id": 60
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/OOPS.md",
+        "wordCountStart": 22,
+        "charCountStart": 284,
+        "changes": [],
+        "id": 61
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Divisibility.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:15",
+            "w": 69,
+            "c": 380
+          },
+          {
+            "timeKey": "20:25",
+            "w": 3,
+            "c": 27
+          },
+          {
+            "timeKey": "20:30",
+            "w": 93,
+            "c": 438
+          },
+          {
+            "timeKey": "20:35",
+            "w": 80,
+            "c": 374
+          },
+          {
+            "timeKey": "20:40",
+            "w": 42,
+            "c": 234
+          },
+          {
+            "timeKey": "20:45",
+            "w": 24,
+            "c": 145
+          },
+          {
+            "timeKey": "20:50",
+            "w": -5,
+            "c": -27
+          },
+          {
+            "timeKey": "22:10",
+            "w": 16,
+            "c": 78
+          },
+          {
+            "timeKey": "22:50",
+            "w": 2,
+            "c": 28
+          },
+          {
+            "timeKey": "23:00",
+            "w": -75,
+            "c": -390
+          },
+          {
+            "timeKey": "23:40",
+            "w": 1,
+            "c": 1
+          }
+        ],
+        "id": 62
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Congruence.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:50",
+            "w": 47,
+            "c": 231
+          },
+          {
+            "timeKey": "20:55",
+            "w": 43,
+            "c": 279
+          },
+          {
+            "timeKey": "21:00",
+            "w": 41,
+            "c": 189
+          },
+          {
+            "timeKey": "21:05",
+            "w": 1,
+            "c": 6
+          },
+          {
+            "timeKey": "21:10",
+            "w": 30,
+            "c": 149
+          },
+          {
+            "timeKey": "21:15",
+            "w": 12,
+            "c": 67
+          },
+          {
+            "timeKey": "22:10",
+            "w": 17,
+            "c": 79
+          },
+          {
+            "timeKey": "22:15",
+            "w": 49,
+            "c": 234
+          },
+          {
+            "timeKey": "22:20",
+            "w": 6,
+            "c": 28
+          },
+          {
+            "timeKey": "22:50",
+            "w": 2,
+            "c": 47
+          },
+          {
+            "timeKey": "23:35",
+            "w": 2,
+            "c": 24
+          },
+          {
+            "timeKey": "23:40",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 63
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Congruence.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:50",
+            "w": 47,
+            "c": 231
+          },
+          {
+            "timeKey": "20:55",
+            "w": 43,
+            "c": 279
+          },
+          {
+            "timeKey": "21:00",
+            "w": 41,
+            "c": 189
+          },
+          {
+            "timeKey": "21:05",
+            "w": 1,
+            "c": 6
+          },
+          {
+            "timeKey": "21:10",
+            "w": 30,
+            "c": 149
+          },
+          {
+            "timeKey": "21:15",
+            "w": 12,
+            "c": 67
+          },
+          {
+            "timeKey": "22:10",
+            "w": 17,
+            "c": 79
+          },
+          {
+            "timeKey": "22:15",
+            "w": 49,
+            "c": 234
+          },
+          {
+            "timeKey": "22:20",
+            "w": 6,
+            "c": 28
+          },
+          {
+            "timeKey": "22:50",
+            "w": 2,
+            "c": 47
+          },
+          {
+            "timeKey": "23:35",
+            "w": 2,
+            "c": 24
+          },
+          {
+            "timeKey": "23:40",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 64
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Integers Modulo n.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:20",
+            "w": 26,
+            "c": 169
+          },
+          {
+            "timeKey": "22:25",
+            "w": 30,
+            "c": 167
+          },
+          {
+            "timeKey": "23:05",
+            "w": 53,
+            "c": 242
+          },
+          {
+            "timeKey": "23:35",
+            "w": 2,
+            "c": 24
+          },
+          {
+            "timeKey": "23:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 65
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/GCD.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:25",
+            "w": 20,
+            "c": 102
+          },
+          {
+            "timeKey": "22:30",
+            "w": 65,
+            "c": 329
+          },
+          {
+            "timeKey": "22:35",
+            "w": 41,
+            "c": 204
+          },
+          {
+            "timeKey": "22:40",
+            "w": 13,
+            "c": 74
+          },
+          {
+            "timeKey": "22:45",
+            "w": 10,
+            "c": 56
+          },
+          {
+            "timeKey": "22:50",
+            "w": 28,
+            "c": 191
+          },
+          {
+            "timeKey": "23:15",
+            "w": 6,
+            "c": 25
+          },
+          {
+            "timeKey": "23:20",
+            "w": 40,
+            "c": 173
+          },
+          {
+            "timeKey": "23:25",
+            "w": 14,
+            "c": 49
+          },
+          {
+            "timeKey": "23:30",
+            "w": 12,
+            "c": 44
+          },
+          {
+            "timeKey": "23:35",
+            "w": 1,
+            "c": 5
+          },
+          {
+            "timeKey": "23:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 66
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Euclidean Algorithm.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 40,
+            "c": 217
+          },
+          {
+            "timeKey": "00:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "23:25",
+            "w": 15,
+            "c": 93
+          },
+          {
+            "timeKey": "23:35",
+            "w": 6,
+            "c": 91
+          },
+          {
+            "timeKey": "23:40",
+            "w": -1,
+            "c": -14
+          },
+          {
+            "timeKey": "23:50",
+            "w": 52,
+            "c": 251
+          },
+          {
+            "timeKey": "23:55",
+            "w": 49,
+            "c": 229
+          }
+        ],
+        "id": 67
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Division Algorithm.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:55",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "23:00",
+            "w": 73,
+            "c": 379
+          },
+          {
+            "timeKey": "23:10",
+            "w": 19,
+            "c": 132
+          },
+          {
+            "timeKey": "23:15",
+            "w": 27,
+            "c": 117
+          },
+          {
+            "timeKey": "23:35",
+            "w": 2,
+            "c": 24
+          },
+          {
+            "timeKey": "23:40",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 68
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "02 - Mathematics/Discrete Maths/Number Theory/E.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 69
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Euclidean Algorithm.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 40,
+            "c": 217
+          },
+          {
+            "timeKey": "00:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "23:25",
+            "w": 15,
+            "c": 93
+          },
+          {
+            "timeKey": "23:35",
+            "w": 6,
+            "c": 91
+          },
+          {
+            "timeKey": "23:40",
+            "w": -1,
+            "c": -14
+          },
+          {
+            "timeKey": "23:50",
+            "w": 52,
+            "c": 251
+          },
+          {
+            "timeKey": "23:55",
+            "w": 49,
+            "c": 229
+          }
+        ],
+        "id": 70
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/GCD as Linear Equations.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:45",
+            "w": 25,
+            "c": 125
+          },
+          {
+            "timeKey": "22:50",
+            "w": 32,
+            "c": 202
+          },
+          {
+            "timeKey": "22:55",
+            "w": 54,
+            "c": 265
+          },
+          {
+            "timeKey": "23:00",
+            "w": 27,
+            "c": 132
+          },
+          {
+            "timeKey": "23:05",
+            "w": 36,
+            "c": 159
+          }
+        ],
+        "id": 71
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "01 - Coding/Languages/Java/5 OOPS/Inheritance or IS-A Relationship.md",
+        "wordCountStart": 24,
+        "charCountStart": 156,
+        "changes": [
+          {
+            "timeKey": "09:05",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "09:35",
+            "w": 5,
+            "c": 41
+          },
+          {
+            "timeKey": "09:40",
+            "w": 89,
+            "c": 567
+          },
+          {
+            "timeKey": "09:45",
+            "w": 50,
+            "c": 287
+          },
+          {
+            "timeKey": "09:50",
+            "w": 48,
+            "c": 275
+          },
+          {
+            "timeKey": "10:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "10:55",
+            "w": 53,
+            "c": 387
+          },
+          {
+            "timeKey": "11:00",
+            "w": 40,
+            "c": 233
+          },
+          {
+            "timeKey": "11:05",
+            "w": 92,
+            "c": 552
+          },
+          {
+            "timeKey": "11:10",
+            "w": 21,
+            "c": 213
+          },
+          {
+            "timeKey": "11:15",
+            "w": 31,
+            "c": 171
+          },
+          {
+            "timeKey": "11:20",
+            "w": 63,
+            "c": 351
+          },
+          {
+            "timeKey": "11:25",
+            "w": 48,
+            "c": 300
+          },
+          {
+            "timeKey": "11:30",
+            "w": 46,
+            "c": 308
+          },
+          {
+            "timeKey": "11:35",
+            "w": 13,
+            "c": 80
+          },
+          {
+            "timeKey": "11:40",
+            "w": 38,
+            "c": 267
+          },
+          {
+            "timeKey": "11:45",
+            "w": 45,
+            "c": 293
+          },
+          {
+            "timeKey": "11:50",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "22:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 73
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/OOPS.md",
+        "wordCountStart": 22,
+        "charCountStart": 284,
+        "changes": [],
+        "id": 74
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Binary Operations.md",
+        "wordCountStart": 164,
+        "charCountStart": 981,
+        "changes": [],
+        "id": 75
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Encapsulation.md",
+        "wordCountStart": 277,
+        "charCountStart": 1941,
+        "changes": [],
+        "id": 76
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Euclidean Algorithm.md",
+        "wordCountStart": 161,
+        "charCountStart": 867,
+        "changes": [],
+        "id": 77
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Division Algorithm.md",
+        "wordCountStart": 121,
+        "charCountStart": 652,
+        "changes": [],
+        "id": 78
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/GCD.md",
+        "wordCountStart": 250,
+        "charCountStart": 1252,
+        "changes": [
+          {
+            "timeKey": "22:45",
+            "w": -57,
+            "c": -311
+          }
+        ],
+        "id": 79
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Integers Modulo n.md",
+        "wordCountStart": 111,
+        "charCountStart": 602,
+        "changes": [],
+        "id": 80
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Congruence.md",
+        "wordCountStart": 250,
+        "charCountStart": 1334,
+        "changes": [],
+        "id": 81
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Divisibility.md",
+        "wordCountStart": 250,
+        "charCountStart": 1288,
+        "changes": [],
+        "id": 82
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Number Theory.md",
+        "wordCountStart": 144,
+        "charCountStart": 923,
+        "changes": [],
+        "id": 83
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "05 - Mathematics/Discrete Maths/Group Theory/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 84
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Linear Congruence.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:25",
+            "w": 29,
+            "c": 131
+          },
+          {
+            "timeKey": "23:30",
+            "w": 47,
+            "c": 252
+          },
+          {
+            "timeKey": "23:35",
+            "w": 162,
+            "c": 862
+          },
+          {
+            "timeKey": "23:40",
+            "w": -2,
+            "c": 26
+          }
+        ],
+        "id": 85
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 86
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Chinese Remainder Theorem.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:45",
+            "w": 66,
+            "c": 369
+          },
+          {
+            "timeKey": "23:50",
+            "w": 31,
+            "c": 169
+          }
+        ],
+        "id": 87
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/inverse.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 1,
+            "c": 4
+          },
+          {
+            "timeKey": "23:55",
+            "w": 0,
+            "c": 9
+          }
+        ],
+        "id": 88
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/inverse.md",
+        "wordCountStart": 1,
+        "charCountStart": 13,
+        "changes": [],
+        "id": 93
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/GCD.md",
+        "wordCountStart": 193,
+        "charCountStart": 941,
+        "changes": [],
+        "id": 94
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Divisibility.md",
+        "wordCountStart": 250,
+        "charCountStart": 1288,
+        "changes": [],
+        "id": 95
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Binary Operations.md",
+        "wordCountStart": 164,
+        "charCountStart": 981,
+        "changes": [],
+        "id": 96
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Number Theory.md",
+        "wordCountStart": 142,
+        "charCountStart": 915,
+        "changes": [],
+        "id": 97
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "05 - Mathematics/Linear Algebra/Matrices and Systems of Linear Equations/Reduced Row Echelon Form.md",
+        "wordCountStart": 478,
+        "charCountStart": 2780,
+        "changes": [],
+        "id": 98
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "05 - Mathematics/Linear Algebra/Matrices and Systems of Linear Equations/Matrices.md",
+        "wordCountStart": 330,
+        "charCountStart": 1879,
+        "changes": [],
+        "id": 99
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "05 - Mathematics/Linear Algebra/Vector Spaces and Linear Transformations/Sub Spaces.md",
+        "wordCountStart": 110,
+        "charCountStart": 600,
+        "changes": [],
+        "id": 100
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "05 - Mathematics/Linear Algebra/Vector Spaces and Linear Transformations/Vector Space.md",
+        "wordCountStart": 1132,
+        "charCountStart": 6452,
+        "changes": [],
+        "id": 101
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Data Hiding.md",
+        "wordCountStart": 133,
+        "charCountStart": 877,
+        "changes": [],
+        "id": 102
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/OOPS.md",
+        "wordCountStart": 24,
+        "charCountStart": 299,
+        "changes": [],
+        "id": 103
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "04 - Digital Logic/Signal.md",
+        "wordCountStart": 200,
+        "charCountStart": 1209,
+        "changes": [],
+        "id": 104
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "04 - Digital Logic/Number Systems.md",
+        "wordCountStart": 99,
+        "charCountStart": 949,
+        "changes": [],
+        "id": 105
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "04 - Digital Logic/Binary Number.md",
+        "wordCountStart": 76,
+        "charCountStart": 397,
+        "changes": [],
+        "id": 106
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "00 - BS/Skills.md",
+        "wordCountStart": 31,
+        "charCountStart": 264,
+        "changes": [],
+        "id": 107
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "00 - BS/me.md",
+        "wordCountStart": 19,
+        "charCountStart": 97,
+        "changes": [
+          {
+            "timeKey": "11:55",
+            "w": 48,
+            "c": 260
+          }
+        ],
+        "id": 108
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "00 - BS/Web Development.md",
+        "wordCountStart": 301,
+        "charCountStart": 8596,
+        "changes": [],
+        "id": 109
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "00 - BS/Rough.md",
+        "wordCountStart": 12,
+        "charCountStart": 89,
+        "changes": [],
+        "id": 110
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "01 - Tech/Languages/Java/Java Questions End Sem.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 111
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "02 - Programming/Languages/Java/2 Operators & Assignment/Instanceof Operator.md",
+        "wordCountStart": 165,
+        "charCountStart": 1070,
+        "changes": [],
+        "id": 112
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "02 - Programming/Languages/Java/2 Operators & Assignment/Increment & Decrement Operator.md",
+        "wordCountStart": 263,
+        "charCountStart": 1685,
+        "changes": [
+          {
+            "timeKey": "12:05",
+            "w": 10,
+            "c": 78
+          },
+          {
+            "timeKey": "12:10",
+            "w": 28,
+            "c": 123
+          },
+          {
+            "timeKey": "12:15",
+            "w": 11,
+            "c": 28
+          }
+        ],
+        "id": 113
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "05 - Mathematics/Discrete Maths/Number Theory/Linear Congruence.md",
+        "wordCountStart": 236,
+        "charCountStart": 1271,
+        "changes": [],
+        "id": 126
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "01 - Coding/Languages/Java/5 OOPS/Inheritance or IS-A Relationship.md",
+        "wordCountStart": 706,
+        "charCountStart": 4484,
+        "changes": [
+          {
+            "timeKey": "10:55",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "18:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:05",
+            "w": -706,
+            "c": -4485
+          }
+        ],
+        "id": 127
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Encapsulation.md",
+        "wordCountStart": 277,
+        "charCountStart": 1941,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": -277,
+            "c": -1941
+          }
+        ],
+        "id": 128
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "01 - Tech/Languages/Java/Java Questions End Sem.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 129
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Data Hiding.md",
+        "wordCountStart": 133,
+        "charCountStart": 877,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": -133,
+            "c": -877
+          }
+        ],
+        "id": 130
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Abstraction.md",
+        "wordCountStart": 113,
+        "charCountStart": 753,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": -113,
+            "c": -753
+          }
+        ],
+        "id": 131
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "Pattern Problems.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:15",
+            "w": 4,
+            "c": 23
+          },
+          {
+            "timeKey": "19:20",
+            "w": 27,
+            "c": 136
+          },
+          {
+            "timeKey": "19:35",
+            "w": -31,
+            "c": -159
+          }
+        ],
+        "id": 132
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "03 - Books/Books.md",
+        "wordCountStart": 200,
+        "charCountStart": 1281,
+        "changes": [],
+        "id": 133
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/OOPS.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 24,
+            "c": 299
+          },
+          {
+            "timeKey": "20:10",
+            "w": -3,
+            "c": -21
+          }
+        ],
+        "id": 134
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/OOPS.md",
+        "wordCountStart": 24,
+        "charCountStart": 299,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 24,
+            "c": 299
+          },
+          {
+            "timeKey": "20:10",
+            "w": -3,
+            "c": -21
+          }
+        ],
+        "id": 135
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Data Hiding.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 133,
+            "c": 877
+          }
+        ],
+        "id": 136
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Abstraction.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 113,
+            "c": 753
+          }
+        ],
+        "id": 137
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Encapsulation.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 277,
+            "c": 1941
+          }
+        ],
+        "id": 138
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Inheritance.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:05",
+            "w": 706,
+            "c": 4485
+          }
+        ],
+        "id": 139
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/HAS-A Relationship.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:15",
+            "w": 51,
+            "c": 326
+          },
+          {
+            "timeKey": "20:20",
+            "w": 22,
+            "c": 176
+          },
+          {
+            "timeKey": "20:25",
+            "w": 47,
+            "c": 349
+          },
+          {
+            "timeKey": "20:30",
+            "w": 55,
+            "c": 398
+          },
+          {
+            "timeKey": "20:35",
+            "w": 36,
+            "c": 274
+          },
+          {
+            "timeKey": "20:40",
+            "w": 32,
+            "c": 208
+          },
+          {
+            "timeKey": "20:45",
+            "w": 40,
+            "c": 242
+          },
+          {
+            "timeKey": "20:50",
+            "w": -6,
+            "c": -32
+          },
+          {
+            "timeKey": "20:55",
+            "w": 12,
+            "c": 79
+          }
+        ],
+        "id": 140
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Method Signature.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:00",
+            "w": 35,
+            "c": 197
+          },
+          {
+            "timeKey": "21:05",
+            "w": 6,
+            "c": 39
+          },
+          {
+            "timeKey": "21:10",
+            "w": 26,
+            "c": 268
+          },
+          {
+            "timeKey": "21:15",
+            "w": 0,
+            "c": -80
+          },
+          {
+            "timeKey": "21:20",
+            "w": 38,
+            "c": 229
+          },
+          {
+            "timeKey": "21:25",
+            "w": 26,
+            "c": 155
+          }
+        ],
+        "id": 141
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "02 - Programming/Languages/Java/4 Declarations and Access Modifiers/Modifiers.md",
+        "wordCountStart": 1222,
+        "charCountStart": 8666,
+        "changes": [],
+        "id": 142
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Overloading.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 29,
+            "c": 152
+          },
+          {
+            "timeKey": "21:30",
+            "w": 43,
+            "c": 269
+          },
+          {
+            "timeKey": "21:35",
+            "w": 59,
+            "c": 414
+          },
+          {
+            "timeKey": "21:50",
+            "w": 37,
+            "c": 274
+          },
+          {
+            "timeKey": "21:55",
+            "w": 52,
+            "c": 327
+          }
+        ],
+        "id": 143
+      },
+      {
+        "date": "2025-06-20",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Overloading.md",
+        "wordCountStart": 220,
+        "charCountStart": 1436,
+        "changes": [
+          {
+            "timeKey": "22:35",
+            "w": -14,
+            "c": -101
+          },
+          {
+            "timeKey": "23:05",
+            "w": 10,
+            "c": 74
+          },
+          {
+            "timeKey": "23:10",
+            "w": 44,
+            "c": 291
+          },
+          {
+            "timeKey": "23:15",
+            "w": 25,
+            "c": 144
+          },
+          {
+            "timeKey": "23:20",
+            "w": 104,
+            "c": 633
+          },
+          {
+            "timeKey": "23:25",
+            "w": 73,
+            "c": 488
+          },
+          {
+            "timeKey": "23:30",
+            "w": 84,
+            "c": 610
+          },
+          {
+            "timeKey": "23:35",
+            "w": 89,
+            "c": 581
+          },
+          {
+            "timeKey": "23:40",
+            "w": 83,
+            "c": 495
+          },
+          {
+            "timeKey": "23:45",
+            "w": 68,
+            "c": 440
+          },
+          {
+            "timeKey": "23:50",
+            "w": 25,
+            "c": 153
+          }
+        ],
+        "id": 146
+      },
+      {
+        "date": "2025-06-20",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/HAS-A Relationship.md",
+        "wordCountStart": 289,
+        "charCountStart": 2020,
+        "changes": [],
+        "id": 147
+      },
+      {
+        "date": "2025-06-20",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/OOPS.md",
+        "wordCountStart": 21,
+        "charCountStart": 278,
+        "changes": [],
+        "id": 148
+      },
+      {
+        "date": "2025-06-20",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Overriding.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 149
+      },
+      {
+        "date": "2025-06-20",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Inheritance.md",
+        "wordCountStart": 706,
+        "charCountStart": 4485,
+        "changes": [],
+        "id": 150
+      },
+      {
+        "date": "2025-06-21",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Overriding.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 4,
+            "c": 25
+          },
+          {
+            "timeKey": "18:30",
+            "w": 82,
+            "c": 561
+          },
+          {
+            "timeKey": "18:35",
+            "w": 10,
+            "c": 84
+          },
+          {
+            "timeKey": "18:40",
+            "w": 58,
+            "c": 404
+          },
+          {
+            "timeKey": "18:45",
+            "w": 36,
+            "c": 206
+          },
+          {
+            "timeKey": "18:50",
+            "w": 74,
+            "c": 411
+          },
+          {
+            "timeKey": "18:55",
+            "w": 12,
+            "c": 100
+          },
+          {
+            "timeKey": "19:00",
+            "w": 47,
+            "c": 294
+          },
+          {
+            "timeKey": "19:05",
+            "w": 57,
+            "c": 359
+          },
+          {
+            "timeKey": "19:10",
+            "w": 47,
+            "c": 251
+          },
+          {
+            "timeKey": "19:15",
+            "w": 26,
+            "c": 171
+          },
+          {
+            "timeKey": "19:50",
+            "w": 36,
+            "c": 229
+          },
+          {
+            "timeKey": "19:55",
+            "w": 81,
+            "c": 550
+          },
+          {
+            "timeKey": "20:00",
+            "w": -7,
+            "c": 62
+          },
+          {
+            "timeKey": "20:05",
+            "w": 1,
+            "c": 28
+          },
+          {
+            "timeKey": "20:10",
+            "w": 38,
+            "c": 211
+          },
+          {
+            "timeKey": "20:15",
+            "w": 57,
+            "c": 521
+          },
+          {
+            "timeKey": "20:20",
+            "w": -3,
+            "c": -119
+          },
+          {
+            "timeKey": "20:25",
+            "w": 5,
+            "c": 48
+          },
+          {
+            "timeKey": "21:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "22:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 152
+      },
+      {
+        "date": "2025-06-21",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Overloading.md",
+        "wordCountStart": 811,
+        "charCountStart": 5244,
+        "changes": [],
+        "id": 153
+      },
+      {
+        "date": "2025-06-21",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/OOPS.md",
+        "wordCountStart": 21,
+        "charCountStart": 278,
+        "changes": [],
+        "id": 154
+      },
+      {
+        "date": "2025-06-22",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Overriding.md",
+        "wordCountStart": 661,
+        "charCountStart": 4396,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 11,
+            "c": 139
+          },
+          {
+            "timeKey": "00:10",
+            "w": 6,
+            "c": 32
+          },
+          {
+            "timeKey": "00:20",
+            "w": -6,
+            "c": -31
+          },
+          {
+            "timeKey": "00:25",
+            "w": 49,
+            "c": 299
+          },
+          {
+            "timeKey": "00:30",
+            "w": 97,
+            "c": 534
+          },
+          {
+            "timeKey": "00:35",
+            "w": 2,
+            "c": 24
+          },
+          {
+            "timeKey": "23:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "23:25",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "23:45",
+            "w": 17,
+            "c": 112
+          },
+          {
+            "timeKey": "23:50",
+            "w": 107,
+            "c": 671
+          },
+          {
+            "timeKey": "23:55",
+            "w": 6,
+            "c": 57
+          }
+        ],
+        "id": 156
+      },
+      {
+        "date": "2025-06-22",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Data Hiding.md",
+        "wordCountStart": 133,
+        "charCountStart": 877,
+        "changes": [],
+        "id": 157
+      },
+      {
+        "date": "2025-06-23",
+        "filePath": "02 - Programming/Languages/Java/4 Declarations and Access Modifiers/final.md",
+        "wordCountStart": 255,
+        "charCountStart": 1584,
+        "changes": [],
+        "id": 158
+      },
+      {
+        "date": "2025-06-23",
+        "filePath": "00 - BS/Typing.md",
+        "wordCountStart": 817,
+        "charCountStart": 4688,
+        "changes": [
+          {
+            "timeKey": "00:15",
+            "w": -3,
+            "c": -25
+          },
+          {
+            "timeKey": "23:55",
+            "w": -7,
+            "c": -67
+          }
+        ],
+        "id": 166
+      },
+      {
+        "date": "2025-06-24",
+        "filePath": "00 - BS/Typing.md",
+        "wordCountStart": 807,
+        "charCountStart": 4596,
+        "changes": [],
+        "id": 167
+      },
+      {
+        "date": "2025-06-24",
+        "filePath": "00 - BS/Skills.md",
+        "wordCountStart": 31,
+        "charCountStart": 264,
+        "changes": [
+          {
+            "timeKey": "00:40",
+            "w": 0,
+            "c": -2
+          },
+          {
+            "timeKey": "23:15",
+            "w": 2,
+            "c": 13
+          },
+          {
+            "timeKey": "23:35",
+            "w": 2,
+            "c": 26
+          }
+        ],
+        "id": 168
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "00 - BS/Skills.md",
+        "wordCountStart": 35,
+        "charCountStart": 301,
+        "changes": [
+          {
+            "timeKey": "16:55",
+            "w": 5,
+            "c": 27
+          }
+        ],
+        "id": 169
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "00 - BS/me.md",
+        "wordCountStart": 67,
+        "charCountStart": 357,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "17:10",
+            "w": 1,
+            "c": 15
+          }
+        ],
+        "id": 170
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "00 - BS/me.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "17:10",
+            "w": 1,
+            "c": 15
+          }
+        ],
+        "id": 173
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "02 - Programming/Terminal Commands.md",
+        "wordCountStart": 154,
+        "charCountStart": 1982,
+        "changes": [],
+        "id": 174
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "00 - BS/Rough.md",
+        "wordCountStart": 12,
+        "charCountStart": 89,
+        "changes": [
+          {
+            "timeKey": "17:10",
+            "w": -12,
+            "c": -89
+          }
+        ],
+        "id": 175
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "00 - BS/Typing.md",
+        "wordCountStart": 807,
+        "charCountStart": 4596,
+        "changes": [],
+        "id": 176
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "00 - BS/Web Development.md",
+        "wordCountStart": 301,
+        "charCountStart": 8596,
+        "changes": [],
+        "id": 177
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "02 - Programming/Languages/Java/Java.md",
+        "wordCountStart": 11,
+        "charCountStart": 125,
+        "changes": [
+          {
+            "timeKey": "19:20",
+            "w": 4,
+            "c": 28
+          },
+          {
+            "timeKey": "19:45",
+            "w": 1,
+            "c": 11
+          }
+        ],
+        "id": 178
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "01 - Tech/Languages/Java/Java Questions End Sem.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 179
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "01 - Tech/Languages/Java/1 Java Fundamentals/Java End Sem Questions.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:25",
+            "w": 54,
+            "c": 446
+          },
+          {
+            "timeKey": "19:30",
+            "w": 38,
+            "c": 271
+          },
+          {
+            "timeKey": "19:35",
+            "w": 35,
+            "c": 258
+          },
+          {
+            "timeKey": "19:40",
+            "w": 204,
+            "c": 1664
+          },
+          {
+            "timeKey": "19:45",
+            "w": -331,
+            "c": -2639
+          }
+        ],
+        "id": 180
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Overriding.md",
+        "wordCountStart": 950,
+        "charCountStart": 6233,
+        "changes": [
+          {
+            "timeKey": "00:45",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 181
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Overloading.md",
+        "wordCountStart": 811,
+        "charCountStart": 5244,
+        "changes": [],
+        "id": 182
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Data Hiding.md",
+        "wordCountStart": 133,
+        "charCountStart": 877,
+        "changes": [],
+        "id": 183
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/OOPS.md",
+        "wordCountStart": 21,
+        "charCountStart": 278,
+        "changes": [],
+        "id": 184
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "02 - Programming/Languages/Java/1 Java Fundamentals/Identifiers.md",
+        "wordCountStart": 112,
+        "charCountStart": 653,
+        "changes": [
+          {
+            "timeKey": "19:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 185
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 186
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "asasa.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:45",
+            "w": 332,
+            "c": 2651
+          },
+          {
+            "timeKey": "23:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 187
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "02 - Programming/Languages/Java/1 Java Fundamentals/Java Fundamentals.md",
+        "wordCountStart": 20,
+        "charCountStart": 172,
+        "changes": [],
+        "id": 188
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "02 - Programming/Languages/Java/1 Java Fundamentals/Data Types.md",
+        "wordCountStart": 186,
+        "charCountStart": 1180,
+        "changes": [],
+        "id": 189
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/HAS-A Relationship.md",
+        "wordCountStart": 289,
+        "charCountStart": 2020,
+        "changes": [],
+        "id": 190
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Inheritance.md",
+        "wordCountStart": 706,
+        "charCountStart": 4485,
+        "changes": [],
+        "id": 191
+      },
+      {
+        "date": "2025-06-25",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Method Signature.md",
+        "wordCountStart": 131,
+        "charCountStart": 808,
+        "changes": [],
+        "id": 192
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Overriding.md",
+        "wordCountStart": 950,
+        "charCountStart": 6232,
+        "changes": [
+          {
+            "timeKey": "13:50",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "14:05",
+            "w": 23,
+            "c": 253
+          },
+          {
+            "timeKey": "14:10",
+            "w": 120,
+            "c": 1115
+          },
+          {
+            "timeKey": "14:15",
+            "w": 23,
+            "c": 131
+          },
+          {
+            "timeKey": "17:25",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "17:40",
+            "w": 6,
+            "c": 44
+          },
+          {
+            "timeKey": "17:45",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "17:50",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "18:00",
+            "w": 99,
+            "c": 692
+          },
+          {
+            "timeKey": "18:05",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "18:50",
+            "w": 24,
+            "c": 137
+          },
+          {
+            "timeKey": "18:55",
+            "w": 6,
+            "c": 40
+          },
+          {
+            "timeKey": "19:10",
+            "w": 1,
+            "c": 1
+          },
+          {
+            "timeKey": "19:40",
+            "w": 87,
+            "c": 600
+          },
+          {
+            "timeKey": "19:45",
+            "w": -12,
+            "c": -74
+          },
+          {
+            "timeKey": "20:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "23:10",
+            "w": 1,
+            "c": 8
+          }
+        ],
+        "id": 193
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "02 - Programming/Terminal Commands.md",
+        "wordCountStart": 154,
+        "charCountStart": 1982,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": -154,
+            "c": -1982
+          },
+          {
+            "timeKey": "19:45",
+            "w": 154,
+            "c": 1982
+          }
+        ],
+        "id": 194
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "02 - Programming/ASCII.md",
+        "wordCountStart": 317,
+        "charCountStart": 2998,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": -317,
+            "c": -2998
+          },
+          {
+            "timeKey": "19:45",
+            "w": 317,
+            "c": 2999
+          }
+        ],
+        "id": 195
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "02 - Programming/Git.md",
+        "wordCountStart": 84,
+        "charCountStart": 934,
+        "changes": [
+          {
+            "timeKey": "17:25",
+            "w": -84,
+            "c": -934
+          },
+          {
+            "timeKey": "19:45",
+            "w": 84,
+            "c": 934
+          }
+        ],
+        "id": 196
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "00 - BS/me.md",
+        "wordCountStart": 68,
+        "charCountStart": 372,
+        "changes": [],
+        "id": 197
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "00 - BS/Skills.md",
+        "wordCountStart": 40,
+        "charCountStart": 328,
+        "changes": [],
+        "id": 198
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "04 - Digital Logic/Binary Number.md",
+        "wordCountStart": 76,
+        "charCountStart": 397,
+        "changes": [],
+        "id": 199
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "04 - Digital Logic/Number Systems.md",
+        "wordCountStart": 99,
+        "charCountStart": 949,
+        "changes": [],
+        "id": 200
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "04 - Digital Logic/Signal.md",
+        "wordCountStart": 200,
+        "charCountStart": 1209,
+        "changes": [],
+        "id": 201
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "99 Images/cs50Week3Slide010.png",
+        "wordCountStart": 6605,
+        "charCountStart": 33780,
+        "changes": [],
+        "id": 202
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "99 Images/cs50Week3Slide042 1.png",
+        "wordCountStart": 5423,
+        "charCountStart": 26614,
+        "changes": [],
+        "id": 203
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "99 Images/cs50Week3Slide042 2.png",
+        "wordCountStart": 5423,
+        "charCountStart": 26614,
+        "changes": [],
+        "id": 204
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "99 Images/cs50Week3Slide042.png",
+        "wordCountStart": 5423,
+        "charCountStart": 26614,
+        "changes": [],
+        "id": 205
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "99 Images/Pasted image 20250521123308.png",
+        "wordCountStart": 4455,
+        "charCountStart": 19794,
+        "changes": [],
+        "id": 206
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "99 Images/Pasted image 20250522120254.png",
+        "wordCountStart": 5160,
+        "charCountStart": 25176,
+        "changes": [],
+        "id": 207
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "99 Images/Excalidraw/Drawing 2025-05-21 12.29.43.excalidraw.md",
+        "wordCountStart": 515,
+        "charCountStart": 19076,
+        "changes": [],
+        "id": 208
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "99 Images/Excalidraw/Drawing 2025-05-29 00.15.46.excalidraw.md",
+        "wordCountStart": 817,
+        "charCountStart": 29752,
+        "changes": [],
+        "id": 209
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "99 Images/Excalidraw/Pasted image 20250518175638.png",
+        "wordCountStart": 12357,
+        "charCountStart": 68066,
+        "changes": [],
+        "id": 210
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "99 Images/Excalidraw/Rough.md",
+        "wordCountStart": 184,
+        "charCountStart": 6256,
+        "changes": [],
+        "id": 211
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 212
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "02 - Programming/Languages/Java/4 Declarations and Access Modifiers/Import.md",
+        "wordCountStart": 650,
+        "charCountStart": 4218,
+        "changes": [],
+        "id": 213
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "02 - Programming/Languages/Java/Java.md",
+        "wordCountStart": 16,
+        "charCountStart": 164,
+        "changes": [],
+        "id": 214
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Overloading vs Overriding.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:45",
+            "w": 3,
+            "c": 145
+          },
+          {
+            "timeKey": "19:50",
+            "w": 44,
+            "c": 706
+          },
+          {
+            "timeKey": "19:55",
+            "w": 67,
+            "c": 1000
+          },
+          {
+            "timeKey": "20:00",
+            "w": 29,
+            "c": 1416
+          },
+          {
+            "timeKey": "20:05",
+            "w": 24,
+            "c": -1116
+          },
+          {
+            "timeKey": "20:10",
+            "w": 19,
+            "c": 115
+          },
+          {
+            "timeKey": "20:15",
+            "w": 18,
+            "c": 105
+          },
+          {
+            "timeKey": "20:20",
+            "w": 48,
+            "c": 296
+          },
+          {
+            "timeKey": "20:25",
+            "w": -48,
+            "c": -291
+          },
+          {
+            "timeKey": "20:30",
+            "w": 1,
+            "c": 6
+          },
+          {
+            "timeKey": "20:35",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "20:40",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "20:45",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "20:50",
+            "w": 44,
+            "c": 220
+          },
+          {
+            "timeKey": "21:10",
+            "w": 6,
+            "c": 50
+          },
+          {
+            "timeKey": "21:15",
+            "w": 7,
+            "c": 59
+          },
+          {
+            "timeKey": "23:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 215
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/OOPS.md",
+        "wordCountStart": 21,
+        "charCountStart": 278,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 1,
+            "c": 19
+          },
+          {
+            "timeKey": "23:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 216
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Overloading.md",
+        "wordCountStart": 811,
+        "charCountStart": 5244,
+        "changes": [
+          {
+            "timeKey": "19:45",
+            "w": 6,
+            "c": 65
+          }
+        ],
+        "id": 217
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "10. If child class method throws any Checked Exception compulsory parent class method should throw same Checked Exception or its parent otherwise we will get CE but there are no restrictions for Unchecked Exceptions..md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 218
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 219
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Polymorphism.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:30",
+            "w": 1,
+            "c": 0
+          },
+          {
+            "timeKey": "23:00",
+            "w": 27,
+            "c": 157
+          },
+          {
+            "timeKey": "23:05",
+            "w": 80,
+            "c": 557
+          },
+          {
+            "timeKey": "23:15",
+            "w": 32,
+            "c": 186
+          },
+          {
+            "timeKey": "23:20",
+            "w": 90,
+            "c": 493
+          },
+          {
+            "timeKey": "23:25",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 220
+      },
+      {
+        "date": "2025-06-26",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Method Signature.md",
+        "wordCountStart": 131,
+        "charCountStart": 808,
+        "changes": [],
+        "id": 222
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Polymorphism.md",
+        "wordCountStart": 230,
+        "charCountStart": 1392,
+        "changes": [
+          {
+            "timeKey": "13:55",
+            "w": -1,
+            "c": -2
+          },
+          {
+            "timeKey": "14:00",
+            "w": 74,
+            "c": 450
+          },
+          {
+            "timeKey": "14:05",
+            "w": 77,
+            "c": 1175
+          },
+          {
+            "timeKey": "14:10",
+            "w": 47,
+            "c": 256
+          },
+          {
+            "timeKey": "14:15",
+            "w": 30,
+            "c": 230
+          },
+          {
+            "timeKey": "14:20",
+            "w": 3,
+            "c": 14
+          }
+        ],
+        "id": 223
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Overloading vs Overriding.md",
+        "wordCountStart": 262,
+        "charCountStart": 2710,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 224
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Inheritance.md",
+        "wordCountStart": 706,
+        "charCountStart": 4485,
+        "changes": [],
+        "id": 225
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Encapsulation.md",
+        "wordCountStart": 277,
+        "charCountStart": 1941,
+        "changes": [],
+        "id": 226
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/OOPS.md",
+        "wordCountStart": 22,
+        "charCountStart": 297,
+        "changes": [
+          {
+            "timeKey": "16:50",
+            "w": 0,
+            "c": 3
+          }
+        ],
+        "id": 227
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/Coupling.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 228
+      },
+      {
+        "date": "2025-06-27",
+        "filePath": "00 - BS/me.md",
+        "wordCountStart": 68,
+        "charCountStart": 372,
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": 1,
+            "c": 3
+          }
+        ],
+        "id": 229
+      },
+      {
+        "date": "2025-06-28",
+        "filePath": "00 - BS/Web Development.md",
+        "wordCountStart": 301,
+        "charCountStart": 8596,
+        "changes": [],
+        "id": 230
+      },
+      {
+        "date": "2025-06-28",
+        "filePath": "00 - BS/me.md",
+        "wordCountStart": 69,
+        "charCountStart": 375,
+        "changes": [
+          {
+            "timeKey": "11:55",
+            "w": 0,
+            "c": -2
+          },
+          {
+            "timeKey": "23:25",
+            "w": 0,
+            "c": 2
+          }
+        ],
+        "id": 231
+      },
+      {
+        "date": "2025-06-28",
+        "filePath": "00 - BS/Typing.md",
+        "wordCountStart": 807,
+        "charCountStart": 4596,
+        "changes": [
+          {
+            "timeKey": "23:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 232
+      },
+      {
+        "date": "2025-06-29",
+        "filePath": "00 - BS/Typing.md",
+        "wordCountStart": 807,
+        "charCountStart": 4596,
+        "changes": [
+          {
+            "timeKey": "23:20",
+            "w": 0,
+            "c": 4
+          }
+        ],
+        "id": 233
+      },
+      {
+        "date": "2025-07-02",
+        "filePath": "00 - BS/Typing.md",
+        "wordCountStart": 807,
+        "charCountStart": 4600,
+        "changes": [
+          {
+            "timeKey": "12:50",
+            "w": 0,
+            "c": -2
+          }
+        ],
+        "id": 235
+      },
+      {
+        "date": "2025-07-02",
+        "filePath": "02 - Programming/Languages/Java/5 OOPS/OOPS.md",
+        "wordCountStart": 22,
+        "charCountStart": 300,
+        "changes": [],
+        "id": 236
+      },
+      {
+        "date": "2025-07-02",
+        "filePath": "06 - Social Save/Index.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 237
+      },
+      {
+        "date": "2025-07-02",
+        "filePath": "00 - BS/me.md",
+        "wordCountStart": 69,
+        "charCountStart": 375,
+        "changes": [],
+        "id": 238
+      },
+      {
+        "date": "2025-07-02",
+        "filePath": "00 - BS/Skills.md",
+        "wordCountStart": 40,
+        "charCountStart": 328,
+        "changes": [],
+        "id": 239
+      },
+      {
+        "date": "2025-07-02",
+        "filePath": "00 - BS/Web Development.md",
+        "wordCountStart": 301,
+        "charCountStart": 8596,
+        "changes": [],
+        "id": 240
+      },
+      {
+        "date": "2025-07-02",
+        "filePath": "00 - BS/Portfolio Website.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 241
+      },
+      {
+        "date": "2025-07-02",
+        "filePath": "06 - Social Save/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 242
+      },
+      {
+        "date": "2025-07-02",
+        "filePath": "06 - Social Save/YouTube Coders are LYING to You. Here's How..md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 0,
+            "c": 9
+          },
+          {
+            "timeKey": "18:30",
+            "w": 1,
+            "c": 23
+          },
+          {
+            "timeKey": "18:35",
+            "w": 7,
+            "c": 27
+          },
+          {
+            "timeKey": "18:40",
+            "w": 3,
+            "c": 18
+          },
+          {
+            "timeKey": "18:45",
+            "w": 1,
+            "c": 6
+          },
+          {
+            "timeKey": "18:50",
+            "w": 24,
+            "c": 130
+          },
+          {
+            "timeKey": "18:55",
+            "w": -19,
+            "c": -94
+          },
+          {
+            "timeKey": "19:00",
+            "w": 40,
+            "c": 270
+          },
+          {
+            "timeKey": "19:05",
+            "w": 15,
+            "c": 77
+          },
+          {
+            "timeKey": "19:10",
+            "w": 50,
+            "c": 317
+          },
+          {
+            "timeKey": "19:15",
+            "w": 78,
+            "c": 438
+          },
+          {
+            "timeKey": "19:20",
+            "w": 2,
+            "c": 17
+          },
+          {
+            "timeKey": "19:25",
+            "w": 90,
+            "c": 541
+          },
+          {
+            "timeKey": "19:30",
+            "w": 13,
+            "c": 76
+          },
+          {
+            "timeKey": "19:35",
+            "w": 39,
+            "c": 279
+          },
+          {
+            "timeKey": "19:40",
+            "w": 54,
+            "c": 334
+          },
+          {
+            "timeKey": "19:45",
+            "w": 7,
+            "c": 54
+          },
+          {
+            "timeKey": "19:50",
+            "w": 82,
+            "c": 484
+          },
+          {
+            "timeKey": "19:55",
+            "w": 56,
+            "c": 353
+          },
+          {
+            "timeKey": "20:00",
+            "w": 18,
+            "c": 105
+          },
+          {
+            "timeKey": "20:10",
+            "w": 34,
+            "c": 194
+          },
+          {
+            "timeKey": "20:15",
+            "w": -2,
+            "c": -17
+          }
+        ],
+        "id": 243
+      },
+      {
+        "date": "2025-07-03",
+        "filePath": "06 - Social Save/Index.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 246
+      },
+      {
+        "date": "2025-07-03",
+        "filePath": "06 - Social Save/YouTube Coders are LYING to You. Here's How..md",
+        "wordCountStart": 593,
+        "charCountStart": 3641,
+        "changes": [],
+        "id": 247
+      },
+      {
+        "date": "2025-07-03",
+        "filePath": "06 - Social Save/Youtube/how to find opportunities.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 248
+      },
+      {
+        "date": "2025-07-03",
+        "filePath": "06 - Social Save/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 249
+      },
+      {
+        "date": "2025-07-03",
+        "filePath": "00 - BS/me.md",
+        "wordCountStart": 69,
+        "charCountStart": 375,
+        "changes": [
+          {
+            "timeKey": "22:35",
+            "w": 6,
+            "c": 77
+          },
+          {
+            "timeKey": "22:40",
+            "w": 16,
+            "c": 73
+          }
+        ],
+        "id": 250
+      },
+      {
+        "date": "2025-07-03",
+        "filePath": "00 - BS/Typing.md",
+        "wordCountStart": 807,
+        "charCountStart": 4598,
+        "changes": [],
+        "id": 251
+      },
+      {
+        "date": "2025-07-03",
+        "filePath": "00 - BS/Skills.md",
+        "wordCountStart": 40,
+        "charCountStart": 328,
+        "changes": [
+          {
+            "timeKey": "22:55",
+            "w": 3,
+            "c": 18
+          },
+          {
+            "timeKey": "23:00",
+            "w": 3,
+            "c": 11
+          }
+        ],
+        "id": 252
+      }
+    ]
+  }
+}

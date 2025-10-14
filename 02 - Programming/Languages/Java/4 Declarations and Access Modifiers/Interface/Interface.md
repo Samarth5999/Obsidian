@@ -1,0 +1,10 @@
+1. [[Interface Introduction]]
+2. [[Interface Introduction#Declaration & Implementation|Declaration & Implementation]]
+3. [[extends vs implements]]
+4. [[Interface Methods]]
+5. [[Interface Variables]]
+6. [[Interface Naming Conflicts]]
+7. [[Marker Interface]]
+8. [[Adapter Classes]]
+9. [[Interface vs Abstract Class vs Concrete Class]]
+10. Conclusion

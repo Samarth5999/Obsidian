@@ -1,0 +1,14 @@
+{
+  "promptDelete": false,
+  "showLineNumber": false,
+  "showInlineTitle": true,
+  "readableLineLength": false,
+  "foldHeading": false,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "strictLineBreaks": false,
+  "foldIndent": false,
+  "showIndentGuide": false,
+  "vimMode": false,
+  "propertiesInDocument": "visible"
+}

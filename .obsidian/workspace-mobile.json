@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "e28b9cf23a61d454",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b22d98d73c4e2e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "899f666430475f81",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fe742d32409969d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a46cebfe8ded3f1c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "9a7189b77c0154b4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "bf55335735a0b273",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e3eb5257ef9c33a8",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "500d39439b8c1bee",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "40fa452bd3668972",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "01 Coding/CS-50x/Week-1.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "22bea8378ab30a19",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "01 Coding/CS-50x/Week-1.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "ebccfeceb6dac0d7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "01 Coding/CS-50x/Week-1.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "c0a528851d7ac143",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "899f666430475f81",
+  "lastOpenFiles": [
+    "Pasted image 20250517132217.png",
+    "Java.md",
+    "001 Coding/Java/Operators & Assignment",
+    "001 Coding/Java/Java Fundamentals",
+    "001 Coding/Java",
+    "001 Coding/CS-50x",
+    "001 Coding",
+    "01 Coding/CS-50x/Week-1.md",
+    "Excalidraw/Drawing 2025-05-16 13.28.53.excalidraw.md",
+    "Untitled.canvas"
+  ]
+}
