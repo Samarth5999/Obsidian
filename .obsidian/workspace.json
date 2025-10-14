@@ -66,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5,
-    "collapsed": true
+    "width": 238.5
   },
   "right": {
     "id": "08541a93e72879f1",
@@ -147,8 +146,8 @@
       "command-palette:Open command palette": true,
       "omnisearch:Omnisearch": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "dcd778da3c154f40",
