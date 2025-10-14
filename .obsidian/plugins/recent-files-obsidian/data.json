@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Hello this is Samarth",
+      "path": "Hello this is Samarth.md"
+    },
+    {
       "basename": "Static Variables in Recursion",
       "path": "Static Variables in Recursion.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Scrabble",
       "path": "02 - Programming/Courses/CS-50x/Problem Set/Scrabble.md"
-    },
-    {
-      "basename": "Credit",
-      "path": "02 - Programming/Courses/CS-50x/Problem Set/Credit.md"
     }
   ],
   "omittedPaths": [],
