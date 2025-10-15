@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Array Representation",
-      "path": "02 - Programming/DSA/Array/Array Representation.md"
+      "basename": "Arrays in Compiler",
+      "path": "02 - Programming/DSA/Array/Arrays in Compiler.md"
+    },
+    {
+      "basename": "Introduction of Arrays",
+      "path": "02 - Programming/DSA/Array/Introduction of Arrays.md"
     },
     {
       "basename": "2D Array",
@@ -11,10 +15,6 @@
     {
       "basename": "Static vs Dynamic Arrays",
       "path": "02 - Programming/DSA/Array/Static vs Dynamic Arrays.md"
-    },
-    {
-      "basename": "Introduction of Arrays",
-      "path": "02 - Programming/DSA/Array/Introduction of Arrays.md"
     },
     {
       "basename": "DSA",
