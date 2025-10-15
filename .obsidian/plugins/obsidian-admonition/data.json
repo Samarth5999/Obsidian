@@ -89,6 +89,18 @@
       "injectColor": true,
       "noTitle": true,
       "copy": false
+    },
+    "Pseudocode": {
+      "type": "Pseudocode",
+      "color": "179, 198, 255",
+      "icon": {
+        "name": "code",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Pseudocode",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": true,

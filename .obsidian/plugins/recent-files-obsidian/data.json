@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Inserting in Array",
-      "path": "02 - Programming/DSA/Array/Inserting in Array.md"
+      "basename": "Deletion in Array",
+      "path": "02 - Programming/DSA/Array/Deletion in Array.md"
     },
     {
       "basename": "Array ADT",
       "path": "02 - Programming/DSA/Array/Array ADT.md"
     },
     {
+      "basename": "Array Data Representation",
+      "path": "02 - Programming/DSA/Array/Array Data Representation.md"
+    },
+    {
       "basename": "Array Display()",
       "path": "02 - Programming/DSA/Array/Array Display().md"
     },
     {
-      "basename": "Array Data Representation",
-      "path": "02 - Programming/DSA/Array/Array Data Representation.md"
+      "basename": "Inserting in Array",
+      "path": "02 - Programming/DSA/Array/Inserting in Array.md"
     },
     {
       "basename": "2D Array",
@@ -195,10 +199,6 @@
     {
       "basename": "cs-50x",
       "path": "02 - Programming/Courses/CS-50x/cs-50x.md"
-    },
-    {
-      "basename": "Runoff",
-      "path": "02 - Programming/Courses/CS-50x/Problem Set/Runoff.md"
     }
   ],
   "omittedPaths": [],

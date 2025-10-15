@@ -246,6 +246,7 @@ Pre
 Parameter
 Pointers
 Pointer
+Procedure
 IHDR
 IDATx
 IIIX
@@ -513,6 +514,8 @@ Integrated
 Its
 Implemented
 IjcJ
+Increase
+Inserting
 sRGB
 sg
 su
@@ -953,6 +956,7 @@ stores
 stack
 shrink
 share
+struct
 gAMA
 gB
 gVVV
@@ -4526,6 +4530,7 @@ allocate
 ascending
 activation
 accessed
+arr
 LMMagg
 Ljz
 Li
@@ -5400,6 +5405,7 @@ commercial
 compared
 crashes
 caller
+cpp
 HH
 HXYY
 Hg
@@ -6591,6 +6597,8 @@ Activation
 ADTs
 Anything
 Array
+Adding
+Append
 hL
 hO
 how
