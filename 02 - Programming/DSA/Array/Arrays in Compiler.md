@@ -9,3 +9,12 @@ $w$ is the size of Data Type
 
 ## 2D Array
 
+##### Row Major Mapping 
+$$Addr(A[i][j])=L_{o}+(i*n +j)*w$$
+##### Column Major Mapping 
+$$Addr(A[i][j])=L_{o}+(j*m +i)*w$$
+
+## nD Array
+
+Row major formula for nD array of the type $A[d_{1}][d_{2}]\dots[d_{n}]$:- 
+$$Addr(A[i_{1}][i_{2}]\dots[i_{n}])=L_{o}+[\sum^{n}_{p=1} i_{p}*\prod^{n}_{q=p+1}d_{q}]*w$$
