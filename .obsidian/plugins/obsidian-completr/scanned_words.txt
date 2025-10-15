@@ -244,6 +244,8 @@ Program
 Physical
 Pre
 Parameter
+Pointers
+Pointer
 IHDR
 IDATx
 IIIX
@@ -1489,6 +1491,7 @@ procedural
 primary
 popped
 phases
+pointer
 EP
 Ef
 Ejj
@@ -6582,6 +6585,7 @@ Arrangement
 Activation
 ADTs
 Anything
+Array
 hL
 hO
 how
