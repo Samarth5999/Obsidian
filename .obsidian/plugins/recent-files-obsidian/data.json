@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Inserting in Array",
+      "path": "02 - Programming/DSA/Array/Inserting in Array.md"
+    },
+    {
       "basename": "Array ADT",
       "path": "02 - Programming/DSA/Array/Array ADT.md"
+    },
+    {
+      "basename": "Array Display()",
+      "path": "02 - Programming/DSA/Array/Array Display().md"
+    },
+    {
+      "basename": "Array Data Representation",
+      "path": "02 - Programming/DSA/Array/Array Data Representation.md"
     },
     {
       "basename": "2D Array",
@@ -187,18 +199,6 @@
     {
       "basename": "Runoff",
       "path": "02 - Programming/Courses/CS-50x/Problem Set/Runoff.md"
-    },
-    {
-      "basename": "Tideman",
-      "path": "02 - Programming/Courses/CS-50x/Problem Set/Tideman.md"
-    },
-    {
-      "basename": "Plurality",
-      "path": "02 - Programming/Courses/CS-50x/Problem Set/Plurality.md"
-    },
-    {
-      "basename": "Sort",
-      "path": "02 - Programming/Courses/CS-50x/Problem Set/Sort.md"
     }
   ],
   "omittedPaths": [],
