@@ -13,30 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Programming/DSA/Array/2D Array.md",
+                "file": "02 - Programming/DSA/Array/Array ADT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2D Array"
+              "title": "Array ADT"
             }
           },
           {
             "id": "bdc262d42a6ee3cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Programming/DSA/Array/Arrays in Compiler.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arrays in Compiler"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +51,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -148,34 +143,36 @@
       "omnisearch:Omnisearch": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "bdc262d42a6ee3cd",
+  "active": "51f44b1f7af54914",
   "lastOpenFiles": [
-    "02 - Programming/DSA/Array/Introduction of Arrays.md",
-    "02 - Programming/DSA/Array/Arrays in Compiler.md",
     "02 - Programming/DSA/Array/2D Array.md",
+    "02 - Programming/DSA/Array/Array Index.md",
+    "Cleanup/Recursion/Recursion.md",
+    "Cleanup/Abstract Data Type.md",
+    "Cleanup/Programming Paradigms.md",
+    "Cleanup/Static vs Dynamic Memory Allocation.md",
+    "Cleanup/Static Variables in Recursion.md",
+    "Cleanup/Physical vs Logical Data Structure.md",
+    "Cleanup/Data Structure.md",
+    "Cleanup/DSA.md",
+    "02 - Programming/DSA/Array/Array ADT.md",
+    "02 - Programming/DSA/Array/Arrays in Compiler.md",
+    "02 - Programming/DSA/Array/Introduction of Arrays.md",
     "02 - Programming/DSA",
     "02 - Programming/DSA/Array/Static vs Dynamic Arrays.md",
-    "Cleanup/DSA.md",
     "02 - Programming/DSA/Array",
     "Hello this is Samarth.md",
     "Cleanup",
-    "Cleanup/Static Variables in Recursion.md",
     "Cleanup/Recursion/How Recursion Uses Stack.md",
-    "Cleanup/Recursion/Time Complexity of Recursion.md",
-    "Cleanup/Recursion/Recursion.md",
     "Cleanup/Recursion",
-    "Cleanup/Static vs Dynamic Memory Allocation.md",
-    "Cleanup/Programming Paradigms.md",
-    "Cleanup/Physical vs Logical Data Structure.md",
     "Project.md",
     "Cleanup/cs50Week4Slide066.png",
     "Time and Space Complexitiy.md",
     "hello.md",
-    "Cleanup/Abstract Data Type.md",
-    "Cleanup/Data Structure.md",
     "Token.md",
     "Samarth/README.md",
     "Samarth",
@@ -184,7 +181,6 @@
     "02 - Programming/Languages/C++/Skeleton of C++.md",
     "02 - Programming/Languages/Java/5 OOPS/Abstraction.md",
     "02 - Programming/Languages/C++/Compilerr.md",
-    "02 - Programming/Languages/C++/Structure of C+.md",
     "02 - Programming/Fundamentals",
     "02 - Programming/Languages/C++",
     "Cleanup/cs50Week4Slide085.png",

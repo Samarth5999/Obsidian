@@ -1,0 +1,1 @@
+The representation of data is define by the compiler itself, however the operations on the data must be given by the program. The comn
