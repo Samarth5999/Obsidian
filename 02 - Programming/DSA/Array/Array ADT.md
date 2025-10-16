@@ -11,4 +11,5 @@ The representation of data is define by the compiler itself, however the operati
 1. [[Array Display()]]
 2. [[Inserting in Array]]
 3. [[Deletion in Array]]
-4. 
+4. [[Linear Search]]
+5. 

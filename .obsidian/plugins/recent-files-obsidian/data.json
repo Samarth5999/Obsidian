@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "L-0 Securing Accounts",
-      "path": "02 - Programming/Courses/CS-50 Cybersecurity/L-0 Securing Accounts.md"
+      "basename": "Linear Search",
+      "path": "02 - Programming/DSA/Array/Linear Search.md"
+    },
+    {
+      "basename": "Array ADT",
+      "path": "02 - Programming/DSA/Array/Array ADT.md"
+    },
+    {
+      "basename": "Array Index",
+      "path": "02 - Programming/DSA/Array/Array Index.md"
+    },
+    {
+      "basename": "Deletion in Array",
+      "path": "02 - Programming/DSA/Array/Deletion in Array.md"
+    },
+    {
+      "basename": "L-1 Securing Data",
+      "path": "02 - Programming/Courses/CS-50 Cybersecurity/L-1 Securing Data.md"
     },
     {
       "basename": "Index",
       "path": "02 - Programming/Courses/CS-50 Cybersecurity/Index.md"
+    },
+    {
+      "basename": "L-0 Securing Accounts",
+      "path": "02 - Programming/Courses/CS-50 Cybersecurity/L-0 Securing Accounts.md"
     },
     {
       "basename": "cs-50x",
@@ -77,14 +97,6 @@
       "path": "Cleanup/Untitled 2.md"
     },
     {
-      "basename": "Deletion in Array",
-      "path": "02 - Programming/DSA/Array/Deletion in Array.md"
-    },
-    {
-      "basename": "Array ADT",
-      "path": "02 - Programming/DSA/Array/Array ADT.md"
-    },
-    {
       "basename": "Array Data Representation",
       "path": "02 - Programming/DSA/Array/Array Data Representation.md"
     },
@@ -99,10 +111,6 @@
     {
       "basename": "2D Array",
       "path": "02 - Programming/DSA/Array/2D Array.md"
-    },
-    {
-      "basename": "Array Index",
-      "path": "02 - Programming/DSA/Array/Array Index.md"
     },
     {
       "basename": "Recursion",
@@ -191,14 +199,6 @@
     {
       "basename": "cs50Week4Slide163",
       "path": "Cleanup/cs50Week4Slide163.png"
-    },
-    {
-      "basename": "How to Take Math Notes",
-      "path": "06 - Social Save/How to Take Math Notes.md"
-    },
-    {
-      "basename": "YouTube Coders are LYING to You. Here's How.",
-      "path": "06 - Social Save/YouTube Coders are LYING to You. Here's How..md"
     }
   ],
   "omittedPaths": [],
