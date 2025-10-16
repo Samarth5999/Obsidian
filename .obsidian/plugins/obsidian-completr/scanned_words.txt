@@ -247,6 +247,7 @@ Parameter
 Pointers
 Pointer
 Procedure
+Pluratity
 IHDR
 IDATx
 IIIX
@@ -2390,6 +2391,7 @@ Tng
 Trees
 TDFzukcZ
 Tail
+Tideman
 ZQd
 ZzVF
 ZG
@@ -3785,6 +3787,9 @@ Remainder
 Reuse
 RAM
 Repeated
+Readability
+Runoff
+Recover
 KQ
 KT
 KL
@@ -5406,6 +5411,8 @@ compared
 crashes
 caller
 cpp
+cash
+credit
 HH
 HXYY
 Hg
@@ -6337,6 +6344,7 @@ VDDDDDDD
 VHh
 VvV
 Very
+Volume
 AB
 AM
 ADD
@@ -7329,6 +7337,7 @@ Monolithic
 Modular
 Main
 Memory
+Mario
 nb
 nB
 neither
@@ -8529,6 +8538,7 @@ Files
 Frame
 FIFO
 FMudXc
+Filter
 yd
 yr
 you
@@ -9025,6 +9035,8 @@ Stacks
 Same
 SSD
 Store
+Scrablle
+Substition
 Xx
 XT
 XX
@@ -9981,6 +9993,7 @@ CPU
 Contiguous
 Collection
 Complexity
+Caesar
 ll
 lW
 lll
@@ -12571,6 +12584,7 @@ marketing
 months
 minds
 modules
+mario
 You
 Yerkes
 YP

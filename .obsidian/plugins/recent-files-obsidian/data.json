@@ -1,6 +1,82 @@
 {
   "recentFiles": [
     {
+      "basename": "Lecture-0",
+      "path": "02 - Programming/Courses/CS-50 Cybersecurity/Lecture-0.md"
+    },
+    {
+      "basename": "Index",
+      "path": "02 - Programming/Courses/CS-50 Cybersecurity/Index.md"
+    },
+    {
+      "basename": "cs-50x",
+      "path": "02 - Programming/Courses/CS-50x/cs-50x.md"
+    },
+    {
+      "basename": "Rough",
+      "path": "02 - Programming/Courses/CS-50x/Rough.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Cleanup/Untitled 1.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Cleanup/Untitled.md"
+    },
+    {
+      "basename": "me",
+      "path": "00 - BS/me.md"
+    },
+    {
+      "basename": "Web Development",
+      "path": "00 - BS/Web Development.md"
+    },
+    {
+      "basename": "Typing",
+      "path": "00 - BS/Typing.md"
+    },
+    {
+      "basename": "Skills rough",
+      "path": "00 - BS/Skills rough.md"
+    },
+    {
+      "basename": "Random Quotes",
+      "path": "00 - BS/Random Quotes.md"
+    },
+    {
+      "basename": "Portfolio Website",
+      "path": "00 - BS/Portfolio Website.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "00 - BS/Kanban.md"
+    },
+    {
+      "basename": "Untitled 7",
+      "path": "Cleanup/Untitled 7.md"
+    },
+    {
+      "basename": "Untitled 6",
+      "path": "Cleanup/Untitled 6.md"
+    },
+    {
+      "basename": "Untitled 5",
+      "path": "Cleanup/Untitled 5.md"
+    },
+    {
+      "basename": "Untitled 4",
+      "path": "Cleanup/Untitled 4.md"
+    },
+    {
+      "basename": "Untitled 3",
+      "path": "Cleanup/Untitled 3.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "Cleanup/Untitled 2.md"
+    },
+    {
       "basename": "Deletion in Array",
       "path": "02 - Programming/DSA/Array/Deletion in Array.md"
     },
@@ -123,82 +199,6 @@
     {
       "basename": "YouTube Coders are LYING to You. Here's How.",
       "path": "06 - Social Save/YouTube Coders are LYING to You. Here's How..md"
-    },
-    {
-      "basename": "me",
-      "path": "00 - BS/me.md"
-    },
-    {
-      "basename": "Typing",
-      "path": "00 - BS/Typing.md"
-    },
-    {
-      "basename": "Data Hiding",
-      "path": "02 - Programming/Languages/Java/5 OOPS/Data Hiding.md"
-    },
-    {
-      "basename": "Skills rough",
-      "path": "00 - BS/Skills rough.md"
-    },
-    {
-      "basename": "Web Development",
-      "path": "00 - BS/Web Development.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "00 - BS/Kanban.md"
-    },
-    {
-      "basename": "Random Quotes",
-      "path": "00 - BS/Random Quotes.md"
-    },
-    {
-      "basename": "Portfolio Website",
-      "path": "00 - BS/Portfolio Website.md"
-    },
-    {
-      "basename": "Rough",
-      "path": "02 - Programming/Courses/CS-50x/Rough.md"
-    },
-    {
-      "basename": "Week-7 SQL",
-      "path": "02 - Programming/Courses/CS-50x/Week-7 SQL.md"
-    },
-    {
-      "basename": "Week-6 Python",
-      "path": "02 - Programming/Courses/CS-50x/Week-6 Python.md"
-    },
-    {
-      "basename": "Volume",
-      "path": "02 - Programming/Courses/CS-50x/Problem Set/Volume.md"
-    },
-    {
-      "basename": "Week-1 C",
-      "path": "02 - Programming/Courses/CS-50x/Week-1 C.md"
-    },
-    {
-      "basename": "Week-5 Data Structures",
-      "path": "02 - Programming/Courses/CS-50x/Week-5 Data Structures.md"
-    },
-    {
-      "basename": "Week-4 Memory",
-      "path": "02 - Programming/Courses/CS-50x/Week-4 Memory.md"
-    },
-    {
-      "basename": "Week-2 Arrays",
-      "path": "02 - Programming/Courses/CS-50x/Week-2 Arrays.md"
-    },
-    {
-      "basename": "Week-3 Algorithms",
-      "path": "02 - Programming/Courses/CS-50x/Week-3 Algorithms.md"
-    },
-    {
-      "basename": "Mario",
-      "path": "02 - Programming/Courses/CS-50x/Problem Set/Mario.md"
-    },
-    {
-      "basename": "cs-50x",
-      "path": "02 - Programming/Courses/CS-50x/cs-50x.md"
     }
   ],
   "omittedPaths": [],
