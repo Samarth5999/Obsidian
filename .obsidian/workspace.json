@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Programming/Courses/CS-50 Cybersecurity/L-1 Securing Data.md",
+                "file": "00 - BS/me.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L-1 Securing Data"
+              "title": "me"
             }
           }
         ]
@@ -138,11 +138,20 @@
   },
   "active": "f14a79d37e40a891",
   "lastOpenFiles": [
+    "Untitled.md",
+    "00 - BS/me.md",
+    "00 - BS/Kanban.md",
+    "Skills rough.md",
+    "00 - BS/Web Development.md",
+    "00 - BS/Typing.md",
+    "00 - BS/Skills rough.md",
+    "00 - BS/Random Quotes.md",
+    "00 - BS/Portfolio Website.md",
+    "02 - Programming/Courses/CS-50 Cybersecurity/L-1 Securing Data.md",
     "02 - Programming/DSA/Array/Linear Search.md",
     "02 - Programming/DSA/Array/Array ADT.md",
     "02 - Programming/DSA/Array/Array Index.md",
     "02 - Programming/DSA/Array/Deletion in Array.md",
-    "02 - Programming/Courses/CS-50 Cybersecurity/L-1 Securing Data.md",
     "02 - Programming/Courses/CS-50 Cybersecurity/Index.md",
     "02 - Programming/Courses/CS-50 Cybersecurity/L-0 Securing Accounts.md",
     "02 - Programming/Courses/CS-50x/cs-50x.md",
@@ -150,21 +159,12 @@
     "02 - Programming/Courses/CS-50x/Rough.md",
     "Cleanup/Untitled 1.md",
     "Cleanup/Untitled.md",
-    "00 - BS/me.md",
-    "00 - BS/Web Development.md",
-    "00 - BS/Typing.md",
-    "00 - BS/Skills rough.md",
-    "00 - BS/Random Quotes.md",
-    "00 - BS/Portfolio Website.md",
-    "00 - BS/Kanban.md",
     "Cleanup/Untitled 7.md",
     "Cleanup/Untitled 6.md",
     "Cleanup/Untitled 5.md",
     "Cleanup/Untitled 4.md",
     "Cleanup/Untitled 3.md",
     "Cleanup/Untitled 2.md",
-    "02 - Programming/DSA/Array/Array Data Representation.md",
-    "02 - Programming/DSA/Array/Array Display().md",
     "02 - Programming/DSA",
     "02 - Programming/DSA/Array",
     "Cleanup",
