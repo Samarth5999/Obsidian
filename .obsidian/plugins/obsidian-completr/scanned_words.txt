@@ -248,6 +248,11 @@ Pointers
 Pointer
 Procedure
 Pluratity
+Phishing
+Possession
+Password
+Passkey
+Passkeys
 IHDR
 IDATx
 IIIX
@@ -517,6 +522,7 @@ Implemented
 IjcJ
 Increase
 Inserting
+Institute
 sRGB
 sg
 su
@@ -958,6 +964,14 @@ stack
 shrink
 share
 struct
+secured
+social
+sophisticated
+secrets
+securely
+sites
+saving
+stays
 gAMA
 gB
 gVVV
@@ -1139,6 +1153,7 @@ grow
 ghp
 graph
 global
+guess
 pHYs
 pF
 ppp
@@ -1499,6 +1514,15 @@ primary
 popped
 phases
 pointer
+passwords
+possibilities
+posing
+protect
+prospective
+possessed
+party
+phishing
+pair
 EP
 Ef
 Ejj
@@ -1751,6 +1775,7 @@ EDY
 Extension
 Extremely
 Execution
+Engineering
 qw
 quu
 qqvv
@@ -2392,6 +2417,7 @@ Trees
 TDFzukcZ
 Tail
 Tideman
+Technology
 ZQd
 ZzVF
 ZG
@@ -2983,6 +3009,7 @@ Benefit
 Bashing
 Break
 Big
+Brute
 klll
 kC
 ke
@@ -3183,6 +3210,7 @@ kRGq
 kanban
 knew
 keeps
+keystrokes
 rss
 rg
 rE
@@ -3529,6 +3557,11 @@ records
 resource
 relative
 representation
+routers
+recommendations
+require
+reusing
+risk
 RI
 RSS
 Ri
@@ -3790,6 +3823,7 @@ Repeated
 Readability
 Runoff
 Recover
+Rather
 KQ
 KT
 KL
@@ -3975,6 +4009,7 @@ KHX
 KDDDDDDDDDDD
 KDDDDDDDDDDDDD
 KPg
+Knowledge
 vm
 varies
 volts
@@ -4190,6 +4225,7 @@ viewing
 viewers
 vfT
 vnHvf
+vulnerable
 ahh
 aa
 aEl
@@ -4536,6 +4572,16 @@ ascending
 activation
 accessed
 arr
+attacker
+attempts
+attempt
+asked
+adversaries
+accomplished
+attack
+anyone
+attackers
+authorized
 LMMagg
 Ljz
 Li
@@ -4989,6 +5035,7 @@ Obsidian
 Old
 Organize
 OOPs
+OTPs
 cHH
 cQ
 cx
@@ -5413,6 +5460,13 @@ caller
 cpp
 cash
 credit
+compromised
+compromise
+credentials
+compare
+claimants
+centralizing
+cryptography
 HH
 HXYY
 Hg
@@ -5622,6 +5676,7 @@ Huge
 Heap
 Hash
 Head
+Hackers
 Nv
 Nk
 Nodes
@@ -5861,6 +5916,9 @@ Noise
 Nibble
 Nmr
 Notepad
+Never
+National
+NIST
 ea
 el
 eU
@@ -6152,6 +6210,8 @@ early
 executes
 events
 extra
+engineering
+emails
 Vl
 Voltage
 Value
@@ -6345,6 +6405,7 @@ VHh
 VvV
 Very
 Volume
+Verifiers
 AB
 AM
 ADD
@@ -6607,6 +6668,8 @@ Anything
 Array
 Adding
 Append
+Attack
+Attacks
 hL
 hO
 how
@@ -6828,6 +6891,8 @@ happens
 hit
 however
 had
+hints
+hassle
 bTA
 bjl
 ben
@@ -7085,6 +7150,11 @@ business
 bash
 blank
 behavior
+blindly
+browser
+breached
+bio
+basic
 Mf
 MBBB
 Mathematically
@@ -7338,6 +7408,10 @@ Modular
 Main
 Memory
 Mario
+Middle
+Memorized
+MFA
+Managers
 nb
 nB
 neither
@@ -7842,6 +7916,9 @@ freed
 flexible
 freshly
 fun
+failed
+fingerprint
+face
 dl
 dff
 do
@@ -8158,6 +8235,11 @@ decrease
 discipline
 descending
 differentiate
+downloading
+dictionary
+device
+detect
+depend
 xzz
 xQ
 xT
@@ -8539,6 +8621,8 @@ Frame
 FIFO
 FMudXc
 Filter
+Force
+Facebook
 yd
 yr
 you
@@ -9037,6 +9121,13 @@ SSD
 Store
 Scrablle
 Substition
+Stuffing
+Social
+Standards
+Something
+Single
+Sign
+SSO
 Xx
 XT
 XX
@@ -9710,6 +9801,11 @@ tabular
 tree
 table
 terminate
+technological
+trust
+tell
+trusted
+technology
 Cjjj
 Clll
 CE
@@ -9994,6 +10090,7 @@ Contiguous
 Collection
 Complexity
 Caesar
+Credential
 ll
 lW
 lll
@@ -10259,6 +10356,7 @@ leaks
 locations
 linked
 logic
+lengthy
 uk
 uV
 unit
@@ -10474,6 +10572,10 @@ universal
 utilized
 unorganized
 updated
+usernames
+unauthenticated
+unsafe
+unlike
 GbJ
 Get
 Go
@@ -10677,6 +10779,7 @@ GPT
 Graph
 Graphs
 Generalizing
+Google
 oE
 of
 or
@@ -11143,6 +11246,7 @@ wish
 wnl
 went
 wherever
+websites
 UP
 Up
 Use
@@ -11321,6 +11425,9 @@ UAi
 UFH
 UzH
 Uumd
+Usernames
+URL
+Unicode
 iC
 iu
 iB
@@ -11661,6 +11768,8 @@ influencing
 initially
 index
 increasing
+installing
+item
 zYd
 zy
 zHc
@@ -12280,6 +12389,7 @@ Declaring
 Delete
 Declare
 Decrease
+Dictionary
 magnetic
 measured
 move
@@ -12585,6 +12695,12 @@ months
 minds
 modules
 mario
+malicious
+multi
+metrics
+manager
+memorize
+master
 You
 Yerkes
 YP
