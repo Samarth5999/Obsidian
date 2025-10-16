@@ -9024,6 +9024,7 @@ Software
 Stacks
 Same
 SSD
+Store
 Xx
 XT
 XX
@@ -12263,6 +12264,9 @@ Depending
 Defines
 Dynamic
 Declaring
+Delete
+Declare
+Decrease
 magnetic
 measured
 move
