@@ -38,3 +38,4 @@ Suppose a file is 10 KB and each disk block is 4 KB:
 - For huge files, double or triple indirect pointers are used.
 ```
 
+done
