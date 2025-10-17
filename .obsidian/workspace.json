@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Untitled 2.md",
+                "file": "00 - BS/me.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "me"
             }
           }
         ],
@@ -148,7 +148,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b1740afc4964d035",
+  "active": "149e185f674c90e3",
   "lastOpenFiles": [
     "Linux/Linux File System.md",
     "Linux/Untitled 2.md",

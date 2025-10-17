@@ -24,3 +24,5 @@ To Do
 * [ ] Complete DSA theory from Abdul Bari 
 * [ ] Make a portfolio
 ###### End
+
+Post Learning of the day or week on linkden
