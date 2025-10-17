@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "L-0 Securing Accounts",
-      "path": "02 - Programming/Courses/CS-50 Cybersecurity/L-0 Securing Accounts.md"
-    },
-    {
       "basename": "me",
       "path": "00 - BS/me.md"
+    },
+    {
+      "basename": "ASCII",
+      "path": "02 - Programming/ASCII.md"
+    },
+    {
+      "basename": "Git",
+      "path": "02 - Programming/Git.md"
+    },
+    {
+      "basename": "Terminal Commands",
+      "path": "02 - Programming/Terminal Commands.md"
     },
     {
       "basename": "Kanban",
       "path": "00 - BS/Kanban.md"
     },
     {
+      "basename": "Portfolio Website",
+      "path": "00 - BS/Portfolio Website.md"
+    },
+    {
       "basename": "Typing",
       "path": "00 - BS/Typing.md"
     },
     {
-      "basename": "Random Quotes",
-      "path": "00 - BS/Random Quotes.md"
+      "basename": "L-0 Securing Accounts",
+      "path": "02 - Programming/Courses/CS-50 Cybersecurity/L-0 Securing Accounts.md"
     },
     {
-      "basename": "Portfolio Website",
-      "path": "00 - BS/Portfolio Website.md"
+      "basename": "Random Quotes",
+      "path": "00 - BS/Random Quotes.md"
     },
     {
       "basename": "L-1 Securing Data",
@@ -179,10 +191,6 @@
     {
       "basename": "Structure of C+",
       "path": "02 - Programming/Languages/C++/Structure of C+.md"
-    },
-    {
-      "basename": "ASCII",
-      "path": "02 - Programming/ASCII.md"
     },
     {
       "basename": "cs50Week4Slide085",

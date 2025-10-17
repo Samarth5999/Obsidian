@@ -12,3 +12,15 @@ To Do
 ## Learning Tips
 
 #### Question every fucking thing, even the one who is teaching (maybe he is not the right one to teach me)
+
+
+# Land a job or intern 
+
+###### Start
+* [ ] Start DSA theory from Abdul Bari 
+* [ ] 
+* [ ] Setup GitHub
+* [ ] Make a LinkedIn Profile
+* [ ] Complete DSA theory from Abdul Bari 
+* [ ] Make a portfolio
+###### End
