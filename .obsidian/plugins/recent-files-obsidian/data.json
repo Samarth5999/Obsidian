@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Boot Process",
-      "path": "Linux/Boot Process.md"
+      "basename": "Linux File System",
+      "path": "Linux/Linux File System.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Linux/Untitled 1.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Linux/Untitled.md"
+    },
+    {
+      "basename": "Boot Process of Linux",
+      "path": "Linux/Boot Process of Linux.md"
     },
     {
       "basename": "Index",
@@ -187,18 +199,6 @@
     {
       "basename": "Abstraction",
       "path": "02 - Programming/Languages/Java/5 OOPS/Abstraction.md"
-    },
-    {
-      "basename": "Dissecting Hello world!",
-      "path": "02 - Programming/Languages/C++/Dissecting Hello world!.md"
-    },
-    {
-      "basename": "Compilerr",
-      "path": "02 - Programming/Languages/C++/Compilerr.md"
-    },
-    {
-      "basename": "Structure of C+",
-      "path": "02 - Programming/Languages/C++/Structure of C+.md"
     }
   ],
   "omittedPaths": [],

@@ -1,1 +1,1 @@
-[[Boot Process]]
+[[Boot Process of Linux]]

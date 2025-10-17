@@ -27,4 +27,25 @@ The key job for the boot loader are:-
 
 ## Kernel
 
-After GRUB loads up, it inserts the Linux kernel into  memory and hands control over to the kernel to finish the startup process. 
+After the bootloader starts the kernel, the kernel takes over the computer's resources and starts initiating all the background processes and services.
+
+* The Kernel initializes hardware, sets up essential system components, loads and mounts the root filesystem, and uses `initrd` as a temporary root filesystem containing the drivers and tools required to mount the actual root filesystem.
+* It executes `init` or `systemd` (modern systems) which is the first process in the user space with a PID 1.
+* From here, the kernel's job shifts from booting to managing the running system.
+
+## Init
+
+* Init reads the file `/etc/inittab`, this file tells init which runlevel the system should boot into i.e init sets the runlevel — which decides what services and processes should start.
+
+| Runlevel |                Mode                |
+| :------: | :--------------------------------: |
+|    0     |          Halt (Shutdown)           |
+|    1     |          Single User Mode          |
+|    2     |    Multi-User Mode (No Network)    |
+|    3     | Multi-user (Networking but no GUI) |
+|    4     |               Unused               |
+|    5     |       Multi-User Mode (GUI)        |
+|    6     |               Reboot               |
+* Init runs scripts located in directories like: `/etc/rc.d/rc*.d` or `/etc/init.d/` depending on the chosen runlevel.
+
+After all services are up, init spawns getty processes on terminals to display login prompts (text or GUI).
