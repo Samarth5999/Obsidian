@@ -37,3 +37,5 @@ Suppose a file is 10 KB and each disk block is 4 KB:
 - If the file is bigger, the **single indirect pointer** is used → points to a block listing addresses of more data blocks.  
 - For huge files, double or triple indirect pointers are used.
 ```
+
+hello
