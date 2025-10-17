@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 2",
+      "path": "Linux/Untitled 2.md"
+    },
+    {
       "basename": "Linux File System",
       "path": "Linux/Linux File System.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Skeleton of C++",
       "path": "02 - Programming/Languages/C++/Skeleton of C++.md"
-    },
-    {
-      "basename": "Abstraction",
-      "path": "02 - Programming/Languages/Java/5 OOPS/Abstraction.md"
     }
   ],
   "omittedPaths": [],

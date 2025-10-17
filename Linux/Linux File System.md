@@ -2,7 +2,7 @@ The original filesystem introduced with the Linux is called the **Extended files
 
 The ext filesystem uses inodes to track information about the files stored in the virtual directory.
 
-## Inodes
+### Inodes
 
 The inode system creates a separate table on each physical device, called the inode table, to store file information. Each stored file in the virtual directory has an entry in the inode table.
 
@@ -38,4 +38,17 @@ Suppose a file is 10 KB and each disk block is 4 KB:
 - For huge files, double or triple indirect pointers are used.
 ```
 
-done
+
+## Journaling Filesystems
+
+It provides a new level of safety for linux filesystem. 
+Instead of writing data directly to the storage device and then updating the inode table, journaling filesystems write file changes into a temporary file ( journal) first. After data is successfully written to the storage device and the inode table, the journal entry is deleted.
+
+#### Journaling Modes
+
+1. Data Mode: Both inode and file data journaled. Low risk of losing data, but poor performance.
+2. Ordered Mode: Only inode data is written to the journal, but not removes until file data is successfully written. Good compromise between performance and safety.
+3. Writeback Mode: Only inode data is written to the journal, no control over when the file data is written. Higher risk of losing data, but still better than not using journaling.
+
+
+
