@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Boot Process",
+      "path": "Linux/Boot Process.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Linux/Index.md"
+    },
+    {
       "basename": "me",
       "path": "00 - BS/me.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Structure of C+",
       "path": "02 - Programming/Languages/C++/Structure of C+.md"
-    },
-    {
-      "basename": "cs50Week4Slide085",
-      "path": "Cleanup/cs50Week4Slide085.png"
-    },
-    {
-      "basename": "cs50Week4Slide163",
-      "path": "Cleanup/cs50Week4Slide163.png"
     }
   ],
   "omittedPaths": [],

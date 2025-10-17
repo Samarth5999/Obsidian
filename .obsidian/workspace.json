@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - BS/me.md",
+                "file": "Linux/Boot Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "me"
+              "title": "Boot Process"
             }
           }
         ]
@@ -51,7 +51,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08541a93e72879f1",
@@ -135,11 +136,14 @@
   },
   "active": "f14a79d37e40a891",
   "lastOpenFiles": [
+    "Linux/Index.md",
+    "Linux/Boot Process.md",
+    "00 - BS/me.md",
+    "Linux",
     "02 - Programming/ASCII.md",
     "02 - Programming/Git.md",
     "02 - Programming/Terminal Commands.md",
     "00 - BS/Kanban.md",
-    "00 - BS/me.md",
     "Chess.md",
     "00 - BS/Portfolio Website.md",
     "00 - BS/Typing.md",
@@ -160,8 +164,6 @@
     "02 - Programming/Courses/CS-50x/Rough.md",
     "Cleanup/Untitled 1.md",
     "Cleanup/Untitled.md",
-    "Cleanup/Untitled 7.md",
-    "Cleanup/Untitled 6.md",
     "02 - Programming/DSA",
     "02 - Programming/DSA/Array",
     "Cleanup",
@@ -175,7 +177,6 @@
     "99 Images/Excalidraw/sout(~4) = 5.png",
     "99 Images/Excalidraw/Pasted image 20250518175638.png",
     "99 Images/Excalidraw",
-    "06 - Social Save",
     "Excalidraw/Pasted image 20250518175638.png",
     "Excalidraw/sout(~4) = 5.png",
     "Pasted image 20250525184155.png",
